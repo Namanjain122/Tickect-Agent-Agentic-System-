@@ -1,0 +1,262 @@
+{% extends "base.html" %}
+
+{% block title %}AI SQL Agent - Complete Report System{% endblock %}
+
+{% block content %}
+    <h1 class="text-center mb-4">AI SQL Agent - Complete Report System</h1>
+
+    <!-- Financial Year Selection -->
+    <div class="card mb-3">
+        <div class="card-header bg-info text-white">
+            <h5>Select Financial Year</h5>
+        </div>
+        <div class="card-body">
+            <form method="POST" action="{{ url_for('api.select_financial_year') }}">
+                <div class="row">
+                    <div class="col-md-6">
+                        <label for="financial_year" class="form-label">Financial Year:</label>
+                        <select class="form-select" name="financial_year" id="financial_year" onchange="this.form.submit()">
+                            {% for year in financial_years %}
+                                <option value="{{ year.value }}" {% if current_financial_year == year.value %}selected{% endif %}>
+                                    {{ year.label }}
+                                </option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="alert alert-secondary mt-4">
+                            <strong>Current Selection:</strong> {{ current_financial_year }}<br>
+                            <small>Dates: {{ financial_year_dates.start }} to {{ financial_year_dates.end }}</small>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Query Input Card -->
+    <div class="card">
+        <div class="card-header bg-primary text-white">
+            <h5>Enter your query</h5>
+        </div>
+        <div class="card-body">
+            <form method="POST" action="{{ url_for('api.process_query') }}">
+                <input type="hidden" name="financial_year" value="{{ current_financial_year }}">
+                <div class="mb-3">
+                    <label for="prompt" class="form-label">Natural Language Query:</label>
+                    <textarea class="form-control" name="prompt" rows="4"
+                              placeholder="e.g., Show tickets with resolution time greater than 7 days, Tickets resolved by John, Join tickets with users, Average resolution time by ticket type">{% if prompt %}{{ prompt }}{% endif %}</textarea>
+                </div>
+                <button type="submit" class="btn btn-success">Run Query</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Query Type Badge -->
+    {% if result_type %}
+    <div class="alert alert-info mt-3">
+        <strong>Query Type:</strong>
+        {% if sql_query and 'ticket_summary' in sql_query|lower %}
+        <span class="badge bg-success">SQL Query (CSV + Database)</span>
+        {% else %}
+        <span class="badge bg-info">SQL Query (Database Only)</span>
+        {% endif %}
+    </div>
+    {% endif %}
+
+    <!-- Error Message -->
+    {% if error %}
+    <div class="alert alert-danger mt-3">
+        <strong>Error:</strong> {{ error }}
+        {% if sql_query %}
+        <div class="sql-box mt-2">
+            <strong>Generated Query:</strong><br>
+            <code>{{ sql_query }}</code>
+        </div>
+        {% endif %}
+    </div>
+    {% endif %}
+
+    <!-- CSV Badge Info -->
+    {% if sql_query and 'ticket_summary' in sql_query|lower %}
+    <div class="alert alert-success mt-3">
+        <strong>✓ Using CSV-Based Ticket Summary:</strong> This query uses the pre-calculated ticket_summary table with all calculated columns like ResolvedBy, ResolutionDays, etc.
+    </div>
+    {% endif %}
+
+    <!-- Generated SQL Card -->
+    {% if sql_query %}
+    <div class="card mt-3">
+        <div class="card-header {% if 'ticket_summary' in sql_query|lower %}bg-success{% else %}bg-info{% endif %} text-white">
+            <h5>
+                {% if 'ticket_summary' in sql_query|lower %}
+                <span class="badge badge-csv">SQL Query (CSV + DB)</span> Generated SQL
+                {% else %}
+                <span class="badge badge-sql">SQL Query (DB Only)</span> Generated SQL
+                {% endif %}
+            </h5>
+        </div>
+        <div class="card-body">
+            <div class="{% if 'ticket_summary' in sql_query|lower %}csv-box{% else %}sql-box{% endif %}">
+                <code>{{ sql_query }}</code>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- Query Results -->
+    {% if show_results %}
+    <div class="card mt-3">
+        <div class="card-header bg-success text-white">
+            <h5>Query Results ({{ row_count }} rows)</h5>
+        </div>
+        <div class="card-body">
+            <div class="stats">
+                <a href="{{ url_for('api.download') }}" class="btn btn-primary btn-sm">Download Excel</a>
+                <span class="ms-3">Rows: {{ row_count }}</span>
+                {% if result_html %}
+                <span class="ms-3">Columns: {{ result_html.split('<th>')|length - 1 }}</span>
+                {% else %}
+                <span class="ms-3">Columns: 0</span>
+                {% endif %}
+                {% if sql_query and 'ticket_summary' in sql_query|lower %}
+                <span class="ms-3 badge bg-success">Using Pre-calculated Columns</span>
+                {% endif %}
+            </div>
+            <div class="table-responsive" style="max-height: 600px; overflow-y: auto;">
+                {{ result_html|safe }}
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- Example Queries -->
+    <div class="card mt-3">
+        <div class="card-header bg-secondary text-white">
+            <h5>Example Queries</h5>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-6">
+                    <h6>📊 CSV + Database Queries (Uses Calculated Columns):</h6>
+                    <ul class="list-group">
+                        <li class="list-group-item list-group-item-success">"Tickets with resolution time greater than 7 days"</li>
+                        <li class="list-group-item list-group-item-success">"Show me tickets resolved by ravi.kumar@m2mlogger.com"</li>
+                        <li class="list-group-item list-group-item-success">"Open application tickets with customer names"</li>
+                        <li class="list-group-item list-group-item-success">"Tickets closed last week with resolution time"</li>
+                        <li class="list-group-item list-group-item-success">"Average resolution time by ticket type"</li>
+                        <li class="list-group-item list-group-item-success">"Join tickets with users to see who created them"</li>
+                        <li class="list-group-item list-group-item-success">"Tickets with job card information and resolution"</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h6>🗄️ Database Only Queries (Raw Data):</h6>
+                    <ul class="list-group">
+                        <li class="list-group-item list-group-item-info">"Show all users"</li>
+                        <li class="list-group-item list-group-item-info">"List products"</li>
+                        <li class="list-group-item list-group-item-info">"Find ticket T12345 from raw table"</li>
+                        <li class="list-group-item list-group-item-info">"Recent ticket activities"</li>
+                        <li class="list-group-item list-group-item-info">"Count open tickets from raw data"</li>
+                        <li class="list-group-item list-group-item-info">"Show me all job cards"</li>
+                        <li class="list-group-item list-group-item-info">"List all invoices"</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Pre-calculated Columns -->
+    <div class="card mt-3">
+        <div class="card-header bg-warning text-dark">
+            <h5>✅ Available Pre-calculated Columns in ticket_summary</h5>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-4">
+                    <strong>⏱️ Resolution Metrics:</strong>
+                    <ul class="list-unstyled">
+                        <li>• <code>ResolutionMinutes</code> - Time to resolve in minutes</li>
+                        <li>• <code>ResolutionDays</code> - Time to resolve in days</li>
+                        <li>• <code>openDate</code> - When ticket was opened</li>
+                        <li>• <code>ResolvedDate</code> - When ticket was resolved</li>
+                        <li>• <code>closedDate</code> - When ticket was closed</li>
+                        <li>• <code>createDate</code> - When ticket was created</li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <strong>👥 Assignment Info:</strong>
+                    <ul class="list-unstyled">
+                        <li>• <code>CreatedBy</code> - Who created the ticket</li>
+                        <li>• <code>ResolvedBy</code> - Who resolved the ticket</li>
+                        <li>• <code>LastStatus</code> - Current status</li>
+                        <li>• <code>OpenBy</code> - Who opened the ticket</li>
+                        <li>• <code>closedBy</code> - Who closed the ticket</li>
+                        <li>• <code>ReopenBy</code> - Who reopened the ticket</li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <strong>🏢 Business Data:</strong>
+                    <ul class="list-unstyled">
+                        <li>• <code>CustomerName</code> - Customer from job card</li>
+                        <li>• <code>Product</code> - Product name</li>
+                        <li>• <code>ticketType</code> - Application/Device/Internal</li>
+                        <li>• <code>InvoiceNo</code> - Invoice numbers</li>
+                        <li>• <code>ChallanNo</code> - Challan numbers</li>
+                        <li>• <code>PINumber</code> - PI numbers</li>
+                        <li>• <code>jobNo</code> - Job card numbers</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="mt-3 alert alert-info">
+                <strong>💡 Tip:</strong> All queries are now executed as SQL! The AI automatically uses the 
+                <code>ticket_summary</code> table (CSV-based) for calculated columns and can join with other database tables.
+            </div>
+        </div>
+    </div>
+
+    <!-- System Status -->
+    <div class="card mt-3">
+        <div class="card-header bg-dark text-white">
+            <h5>📊 System Status</h5>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="alert alert-success">
+                        <strong>✅ CSV Ticket Summary:</strong> 
+                        {% if complete_report_generator.ticket_summary_df is not none %}
+                        Loaded with {{ complete_report_generator.ticket_summary_df.shape[0] }} rows and 
+                        {{ complete_report_generator.ticket_summary_df.shape[1] }} calculated columns
+                        {% else %}
+                        Generating ticket summary...
+                        {% endif %}
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="alert alert-info">
+                        <strong>✅ Database Connection:</strong> Active and ready for SQL queries
+                    </div>
+                </div>
+            </div>
+            <div class="alert alert-warning">
+                <strong>📁 CSV File:</strong> {{ complete_report_generator.csv_path }} (can be used for external analysis)
+            </div>
+            <div class="alert alert-secondary">
+                <strong>📅 Financial Year:</strong> {{ current_financial_year }}<br>
+                <strong>📆 Date Range:</strong> {{ financial_year_dates.start }} to {{ financial_year_dates.end }}
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block extra_css %}
+<style>
+    .result-container { margin-top: 20px; }
+    .sql-box { background: #f8f9fa; padding: 15px; border-radius: 5px; margin: 10px 0; font-family: monospace; }
+    .csv-box { background: #e8f5e8; padding: 15px; border-radius: 5px; margin: 10px 0; font-family: monospace; }
+    .stats { background: #e9ecef; padding: 10px; border-radius: 5px; margin: 10px 0; }
+    .predefined-queries { background: #f0f8ff; padding: 15px; border-radius: 5px; margin: 10px 0; }
+    .badge-csv { background-color: #28a745; }
+    .badge-sql { background-color: #17a2b8; }
+</style>
+{% endblock %}

@@ -1,0 +1,63 @@
+{% if result_type %}
+<div class="alert alert-info">
+    <strong>Query Type:</strong>
+    {% if sql_query and 'ticket_summary' in sql_query|lower %}
+    <span class="badge bg-success">SQL Query (CSV + Database)</span>
+    {% else %}
+    <span class="badge bg-info">SQL Query (Database Only)</span>
+    {% endif %}
+</div>
+{% endif %}
+
+{% if error %}
+<div class="alert alert-danger">
+    <strong>Error:</strong> {{ error }}
+    {% if sql_query %}
+    <div class="sql-box mt-2">
+        <strong>Generated Query:</strong><br>
+        <code>{{ sql_query }}</code>
+    </div>
+    {% endif %}
+</div>
+{% endif %}
+
+{% if sql_query %}
+<div class="card mt-3">
+    <div class="card-header {% if 'ticket_summary' in sql_query|lower %}bg-success{% else %}bg-info{% endif %} text-white">
+        <h5>
+            {% if 'ticket_summary' in sql_query|lower %}
+            <span class="badge badge-csv">SQL Query (CSV + DB)</span> Generated SQL
+            {% else %}
+            <span class="badge badge-sql">SQL Query (DB Only)</span> Generated SQL
+            {% endif %}
+        </h5>
+    </div>
+    <div class="card-body">
+        <div class="{% if 'ticket_summary' in sql_query|lower %}csv-box{% else %}sql-box{% endif %}">
+            <code>{{ sql_query }}</code>
+        </div>
+    </div>
+</div>
+{% endif %}
+
+{% if show_results %}
+<div class="card mt-3">
+    <div class="card-header bg-success text-white">
+        <h5>Query Results ({{ row_count }} rows)</h5>
+    </div>
+    <div class="card-body">
+        <div class="stats">
+            <a href="{{ url_for('main.download') }}" class="btn btn-primary btn-sm">Download Excel</a>
+            <span class="ms-3">Rows: {{ row_count }}</span>
+            {% if result_html %}
+            <span class="ms-3">Columns: {{ result_html.split('<th>')|length - 1 }}</span>
+            {% else %}
+            <span class="ms-3">Columns: 0</span>
+            {% endif %}
+        </div>
+        <div class="table-responsive" style="max-height: 600px; overflow-y: auto;">
+            {{ result_html|safe }}
+        </div>
+    </div>
+</div>
+{% endif %}

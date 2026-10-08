@@ -1,0 +1,1605 @@
+2025-09-16 13:13:45,491 - root - INFO - ✅ Unified logging initialized via config.py
+2025-09-16 13:13:47,004 - hybrid_agent - INFO - Creating HybridSQLGenerator instance
+2025-09-16 13:13:47,005 - hybrid_agent - INFO - 🚀 Initializing HybridSQLGenerator
+2025-09-16 13:13:47,005 - hybrid_agent - INFO - 📋 Loading available columns
+2025-09-16 13:13:47,005 - hybrid_agent - INFO - ✅ Loaded 27 calculated columns and 7 raw tables
+2025-09-16 13:13:47,005 - hybrid_agent - INFO - ✅ HybridSQLGenerator initialized successfully
+2025-09-16 13:13:47,011 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 13:13:47,011 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 13:13:47,011 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 13:13:47,011 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 13:13:47,145 - app - INFO - ✅ Database connection successful
+2025-09-16 13:13:47,145 - app - INFO - ✅ Database connection successful
+2025-09-16 13:13:47,146 - app - INFO - ✅ Database connection successful
+2025-09-16 13:13:47,146 - app - INFO - ✅ Database connection successful
+2025-09-16 13:13:47,185 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:13:47,185 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:13:47,187 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:13:47,187 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:13:47,188 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 13:13:47,188 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 13:13:47,188 - app - INFO - 🚀 Starting development server...
+2025-09-16 13:13:47,188 - app - INFO - 🚀 Starting development server...
+2025-09-16 13:13:47,189 - app - INFO - 📊 Debug mode: ON
+2025-09-16 13:13:47,189 - app - INFO - 📊 Debug mode: ON
+2025-09-16 13:13:47,190 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 13:13:47,190 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 13:13:47,190 - app - INFO - 🔌 Port: 5000
+2025-09-16 13:13:47,190 - app - INFO - 🔌 Port: 5000
+2025-09-16 13:13:47,191 - app - INFO - ==================================================
+2025-09-16 13:13:47,191 - app - INFO - ==================================================
+2025-09-16 13:13:47,239 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+2025-09-16 13:13:47,239 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-16 13:13:47,265 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 13:13:48,410 - root - INFO - ✅ Unified logging initialized via config.py
+2025-09-16 13:13:50,318 - hybrid_agent - INFO - Creating HybridSQLGenerator instance
+2025-09-16 13:13:50,318 - hybrid_agent - INFO - 🚀 Initializing HybridSQLGenerator
+2025-09-16 13:13:50,318 - hybrid_agent - INFO - 📋 Loading available columns
+2025-09-16 13:13:50,318 - hybrid_agent - INFO - ✅ Loaded 27 calculated columns and 7 raw tables
+2025-09-16 13:13:50,318 - hybrid_agent - INFO - ✅ HybridSQLGenerator initialized successfully
+2025-09-16 13:13:50,318 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 13:13:50,318 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 13:13:50,318 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 13:13:50,318 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 13:13:50,426 - app - INFO - ✅ Database connection successful
+2025-09-16 13:13:50,426 - app - INFO - ✅ Database connection successful
+2025-09-16 13:13:50,427 - app - INFO - ✅ Database connection successful
+2025-09-16 13:13:50,427 - app - INFO - ✅ Database connection successful
+2025-09-16 13:13:50,453 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:13:50,453 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:13:50,455 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:13:50,455 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:13:50,456 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 13:13:50,456 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 13:13:50,456 - app - INFO - 🚀 Starting development server...
+2025-09-16 13:13:50,456 - app - INFO - 🚀 Starting development server...
+2025-09-16 13:13:50,457 - app - INFO - 📊 Debug mode: ON
+2025-09-16 13:13:50,457 - app - INFO - 📊 Debug mode: ON
+2025-09-16 13:13:50,457 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 13:13:50,457 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 13:13:50,458 - app - INFO - 🔌 Port: 5000
+2025-09-16 13:13:50,458 - app - INFO - 🔌 Port: 5000
+2025-09-16 13:13:50,458 - app - INFO - ==================================================
+2025-09-16 13:13:50,458 - app - INFO - ==================================================
+2025-09-16 13:13:50,482 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 13:13:50,490 - werkzeug - INFO -  * Debugger PIN: 119-134-647
+2025-09-16 13:18:12,641 - root - INFO - ✅ Unified logging initialized via config.py
+2025-09-16 13:18:13,907 - hybrid_agent - INFO - Creating HybridSQLGenerator instance
+2025-09-16 13:18:13,907 - hybrid_agent - INFO - 🚀 Initializing HybridSQLGenerator
+2025-09-16 13:18:13,907 - hybrid_agent - INFO - 📋 Loading available columns
+2025-09-16 13:18:13,908 - hybrid_agent - INFO - ✅ Loaded 27 calculated columns and 7 raw tables
+2025-09-16 13:18:13,908 - hybrid_agent - INFO - ✅ HybridSQLGenerator initialized successfully
+2025-09-16 13:18:13,910 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 13:18:13,910 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 13:18:13,910 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 13:18:13,910 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 13:18:14,067 - app - INFO - ✅ Database connection successful
+2025-09-16 13:18:14,067 - app - INFO - ✅ Database connection successful
+2025-09-16 13:18:14,067 - app - INFO - ✅ Database connection successful
+2025-09-16 13:18:14,067 - app - INFO - ✅ Database connection successful
+2025-09-16 13:18:14,109 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:18:14,109 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:18:14,110 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:18:14,110 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:18:14,111 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 13:18:14,111 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 13:18:14,112 - app - INFO - 🚀 Starting development server...
+2025-09-16 13:18:14,112 - app - INFO - 🚀 Starting development server...
+2025-09-16 13:18:14,112 - app - INFO - 📊 Debug mode: ON
+2025-09-16 13:18:14,112 - app - INFO - 📊 Debug mode: ON
+2025-09-16 13:18:14,113 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 13:18:14,113 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 13:18:14,114 - app - INFO - 🔌 Port: 5000
+2025-09-16 13:18:14,114 - app - INFO - 🔌 Port: 5000
+2025-09-16 13:18:14,115 - app - INFO - ==================================================
+2025-09-16 13:18:14,115 - app - INFO - ==================================================
+2025-09-16 13:18:14,250 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+2025-09-16 13:18:14,252 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-16 13:18:14,254 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 13:18:14,833 - root - INFO - ✅ Unified logging initialized via config.py
+2025-09-16 13:18:16,202 - hybrid_agent - INFO - Creating HybridSQLGenerator instance
+2025-09-16 13:18:16,203 - hybrid_agent - INFO - 🚀 Initializing HybridSQLGenerator
+2025-09-16 13:18:16,203 - hybrid_agent - INFO - 📋 Loading available columns
+2025-09-16 13:18:16,203 - hybrid_agent - INFO - ✅ Loaded 27 calculated columns and 7 raw tables
+2025-09-16 13:18:16,203 - hybrid_agent - INFO - ✅ HybridSQLGenerator initialized successfully
+2025-09-16 13:18:16,209 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 13:18:16,209 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 13:18:16,210 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 13:18:16,210 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 13:18:16,315 - app - INFO - ✅ Database connection successful
+2025-09-16 13:18:16,315 - app - INFO - ✅ Database connection successful
+2025-09-16 13:18:16,318 - app - INFO - ✅ Database connection successful
+2025-09-16 13:18:16,318 - app - INFO - ✅ Database connection successful
+2025-09-16 13:18:16,355 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:18:16,355 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:18:16,360 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:18:16,360 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:18:16,362 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 13:18:16,362 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 13:18:16,362 - app - INFO - 🚀 Starting development server...
+2025-09-16 13:18:16,362 - app - INFO - 🚀 Starting development server...
+2025-09-16 13:18:16,362 - app - INFO - 📊 Debug mode: ON
+2025-09-16 13:18:16,362 - app - INFO - 📊 Debug mode: ON
+2025-09-16 13:18:16,365 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 13:18:16,365 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 13:18:16,369 - app - INFO - 🔌 Port: 5000
+2025-09-16 13:18:16,369 - app - INFO - 🔌 Port: 5000
+2025-09-16 13:18:16,370 - app - INFO - ==================================================
+2025-09-16 13:18:16,370 - app - INFO - ==================================================
+2025-09-16 13:18:16,428 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 13:18:16,435 - werkzeug - INFO -  * Debugger PIN: 119-134-647
+2025-09-16 13:18:30,070 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:18:30] "[33mGET / HTTP/1.1[0m" 404 -
+2025-09-16 13:18:31,097 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:18:31] "[33mGET / HTTP/1.1[0m" 404 -
+2025-09-16 13:18:34,865 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:18:34] "GET /api/ HTTP/1.1" 200 -
+2025-09-16 13:18:44,153 - hybrid_agent - INFO - process_prompt called with prompt: 'show me all tickets', financial_year: 2026-2027
+2025-09-16 13:18:44,161 - hybrid_agent - INFO - 🔍 Processing query: 'show me all tickets' for financial year: 2026-2027
+2025-09-16 13:18:44,162 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2026-2027
+2025-09-16 13:18:44,162 - hybrid_agent - INFO - 🔄 Financial year changed from None to 2026-2027, loading new data
+2025-09-16 13:18:44,163 - hybrid_agent - INFO - 📊 Loading ticket summary for financial year: 2026-2027
+2025-09-16 13:18:44,163 - app - INFO - Generating complete report for financial year: 2026-2027...
+2025-09-16 13:18:44,163 - app - INFO - Generating complete report for financial year: 2026-2027...
+2025-09-16 13:18:44,164 - app - INFO - Loading data for financial year: 2026-2027
+2025-09-16 13:18:44,164 - app - INFO - Loading data for financial year: 2026-2027
+2025-09-16 13:18:44,165 - app.services.report_generator - INFO - Loading data for financial year: 2026-2027
+2025-09-16 13:18:44,165 - app.services.report_generator - INFO - Loading data for financial year: 2026-2027
+2025-09-16 13:18:46,040 - app - INFO - Date range: 2026-04-01 to 2027-03-31
+2025-09-16 13:18:46,040 - app - INFO - Date range: 2026-04-01 to 2027-03-31
+2025-09-16 13:18:46,077 - app - INFO - Loaded 0 tickets, 0 activities for 2026-2027
+2025-09-16 13:18:46,077 - app - INFO - Loaded 0 tickets, 0 activities for 2026-2027
+2025-09-16 13:18:46,270 - app - INFO - Generated report with 0 rows and 32 columns for 2026-2027
+2025-09-16 13:18:46,270 - app - INFO - Generated report with 0 rows and 32 columns for 2026-2027
+2025-09-16 13:18:46,270 - app - INFO - ✅ Saved ticket summary to ticket_summary_report_2026_2027.csv
+2025-09-16 13:18:46,270 - app - INFO - ✅ Saved ticket summary to ticket_summary_report_2026_2027.csv
+2025-09-16 13:18:46,270 - app.services.report_generator - INFO - ✅ Saved ticket summary to ticket_summary_report_2026_2027.csv
+2025-09-16 13:18:46,270 - app.services.report_generator - INFO - ✅ Saved ticket summary to ticket_summary_report_2026_2027.csv
+2025-09-16 13:18:46,270 - hybrid_agent - INFO - ✅ Successfully loaded 0 rows, 32 columns
+2025-09-16 13:18:46,270 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 13:18:46,285 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 13:18:46,316 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 13:18:46,316 - hybrid_agent - INFO - 💾 Loading data into SQLite database
+2025-09-16 13:18:46,327 - hybrid_agent - INFO - ✅ Data loaded into SQLite for financial year 2026-2027
+2025-09-16 13:18:46,329 - hybrid_agent - DEBUG - Cleaning prompt: 'show me all tickets'
+2025-09-16 13:18:46,329 - hybrid_agent - DEBUG - Cleaned prompt: 'all tickets'
+2025-09-16 13:18:46,329 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'all tickets'
+2025-09-16 13:18:46,329 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 13:18:46,329 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 13:18:46,329 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 13:18:46,329 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 13:18:48,435 - hybrid_agent - ERROR - Groq API call failed: 401 Client Error: Unauthorized for url: https://api.groq.com/openai/v1/chat/completions
+2025-09-16 13:18:48,436 - hybrid_agent - INFO - Using fallback query due to API failure
+2025-09-16 13:18:48,438 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary
+2025-09-16 13:18:48,439 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 13:18:48,439 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary
+2025-09-16 13:18:48,440 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2026-2027
+2025-09-16 13:18:48,440 - hybrid_agent - INFO - ✅ Financial year unchanged (2026-2027), using cached data
+2025-09-16 13:18:48,440 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 13:18:48,441 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 13:18:48,441 - hybrid_agent - WARNING - ⚠️ ticket_summary table is empty, repopulating
+2025-09-16 13:18:48,445 - hybrid_agent - INFO - ✅ ticket_summary table repopulated
+2025-09-16 13:18:48,445 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary
+2025-09-16 13:18:48,453 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 0 rows
+2025-09-16 13:18:48,453 - hybrid_agent - INFO - ✅ Query execution completed, returned 0 rows
+2025-09-16 13:18:48,454 - hybrid_agent - INFO - process_prompt completed successfully, returned 0 rows
+2025-09-16 13:18:48,456 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:18:48] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 13:18:59,790 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:18:59] "[32mPOST /api/select-financial-year HTTP/1.1[0m" 302 -
+2025-09-16 13:18:59,808 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:18:59] "GET /api/ HTTP/1.1" 200 -
+2025-09-16 13:19:17,018 - hybrid_agent - INFO - process_prompt called with prompt: 'show me all tickets', financial_year: 2025-2026
+2025-09-16 13:19:17,020 - hybrid_agent - INFO - 🔍 Processing query: 'show me all tickets' for financial year: 2025-2026
+2025-09-16 13:19:17,020 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 13:19:17,020 - hybrid_agent - INFO - 🔄 Financial year changed from 2026-2027 to 2025-2026, loading new data
+2025-09-16 13:19:17,022 - hybrid_agent - INFO - 📊 Loading ticket summary for financial year: 2025-2026
+2025-09-16 13:19:17,022 - hybrid_agent - INFO - ✅ Successfully loaded 0 rows, 32 columns
+2025-09-16 13:19:17,022 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 13:19:17,022 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 13:19:17,025 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 13:19:17,025 - hybrid_agent - INFO - 💾 Loading data into SQLite database
+2025-09-16 13:19:17,037 - hybrid_agent - INFO - ✅ Data loaded into SQLite for financial year 2025-2026
+2025-09-16 13:19:17,038 - hybrid_agent - DEBUG - Cleaning prompt: 'show me all tickets'
+2025-09-16 13:19:17,038 - hybrid_agent - DEBUG - Cleaned prompt: 'all tickets'
+2025-09-16 13:19:17,039 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'all tickets'
+2025-09-16 13:19:17,040 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 13:19:17,040 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 13:19:17,040 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 13:19:17,042 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 13:19:18,334 - hybrid_agent - ERROR - Groq API call failed: 401 Client Error: Unauthorized for url: https://api.groq.com/openai/v1/chat/completions
+2025-09-16 13:19:18,334 - hybrid_agent - INFO - Using fallback query due to API failure
+2025-09-16 13:19:18,334 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary
+2025-09-16 13:19:18,334 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 13:19:18,334 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary
+2025-09-16 13:19:18,334 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 13:19:18,340 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 13:19:18,342 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 13:19:18,344 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 13:19:18,344 - hybrid_agent - WARNING - ⚠️ ticket_summary table is empty, repopulating
+2025-09-16 13:19:18,351 - hybrid_agent - INFO - ✅ ticket_summary table repopulated
+2025-09-16 13:19:18,351 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary
+2025-09-16 13:19:18,360 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 0 rows
+2025-09-16 13:19:18,360 - hybrid_agent - INFO - ✅ Query execution completed, returned 0 rows
+2025-09-16 13:19:18,361 - hybrid_agent - INFO - process_prompt completed successfully, returned 0 rows
+2025-09-16 13:19:18,362 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:19:18] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 13:19:25,252 - app - INFO - Generating complete report for financial year: 2024-2025...
+2025-09-16 13:19:25,252 - app - INFO - Generating complete report for financial year: 2024-2025...
+2025-09-16 13:19:25,258 - app - INFO - Loading data for financial year: 2024-2025
+2025-09-16 13:19:25,258 - app - INFO - Loading data for financial year: 2024-2025
+2025-09-16 13:19:25,260 - app.services.report_generator - INFO - Loading data for financial year: 2024-2025
+2025-09-16 13:19:25,260 - app.services.report_generator - INFO - Loading data for financial year: 2024-2025
+2025-09-16 13:19:26,759 - app - INFO - Date range: 2024-04-01 to 2025-03-31
+2025-09-16 13:19:26,759 - app - INFO - Date range: 2024-04-01 to 2025-03-31
+2025-09-16 13:19:26,764 - app - INFO - Loaded 1508 tickets, 7127 activities for 2024-2025
+2025-09-16 13:19:26,764 - app - INFO - Loaded 1508 tickets, 7127 activities for 2024-2025
+2025-09-16 13:19:27,073 - app - INFO - Generated report with 1508 rows and 32 columns for 2024-2025
+2025-09-16 13:19:27,073 - app - INFO - Generated report with 1508 rows and 32 columns for 2024-2025
+2025-09-16 13:19:27,138 - app - INFO - ✅ Saved ticket summary to ticket_summary_report_2024_2025.csv
+2025-09-16 13:19:27,138 - app - INFO - ✅ Saved ticket summary to ticket_summary_report_2024_2025.csv
+2025-09-16 13:19:27,139 - app.services.report_generator - INFO - ✅ Saved ticket summary to ticket_summary_report_2024_2025.csv
+2025-09-16 13:19:27,139 - app.services.report_generator - INFO - ✅ Saved ticket summary to ticket_summary_report_2024_2025.csv
+2025-09-16 13:19:27,140 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:19:27] "[32mPOST /api/select-financial-year HTTP/1.1[0m" 302 -
+2025-09-16 13:19:27,158 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:19:27] "GET /api/ HTTP/1.1" 200 -
+2025-09-16 13:19:36,337 - hybrid_agent - INFO - process_prompt called with prompt: 'show me tickets', financial_year: 2024-2025
+2025-09-16 13:19:36,339 - hybrid_agent - INFO - 🔍 Processing query: 'show me tickets' for financial year: 2024-2025
+2025-09-16 13:19:36,340 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2024-2025
+2025-09-16 13:19:36,341 - hybrid_agent - INFO - 🔄 Financial year changed from 2025-2026 to 2024-2025, loading new data
+2025-09-16 13:19:36,342 - hybrid_agent - INFO - 📊 Loading ticket summary for financial year: 2024-2025
+2025-09-16 13:19:36,537 - app - INFO -  Loaded ticket summary from ticket_summary_report_2024_2025.csv
+2025-09-16 13:19:36,537 - app - INFO -  Loaded ticket summary from ticket_summary_report_2024_2025.csv
+2025-09-16 13:19:36,539 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2024_2025.csv
+2025-09-16 13:19:36,539 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2024_2025.csv
+2025-09-16 13:19:36,541 - hybrid_agent - INFO - ✅ Successfully loaded 1508 rows, 32 columns
+2025-09-16 13:19:36,541 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 13:19:36,541 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 13:19:36,543 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 13:19:36,544 - hybrid_agent - INFO - 💾 Loading data into SQLite database
+2025-09-16 13:19:36,584 - hybrid_agent - INFO - ✅ Data loaded into SQLite for financial year 2024-2025
+2025-09-16 13:19:36,584 - hybrid_agent - DEBUG - Cleaning prompt: 'show me tickets'
+2025-09-16 13:19:36,584 - hybrid_agent - DEBUG - Cleaned prompt: 'tickets'
+2025-09-16 13:19:36,584 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'tickets'
+2025-09-16 13:19:36,585 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 13:19:36,585 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 13:19:36,585 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 13:19:36,585 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 13:19:37,849 - hybrid_agent - ERROR - Groq API call failed: 401 Client Error: Unauthorized for url: https://api.groq.com/openai/v1/chat/completions
+2025-09-16 13:19:37,849 - hybrid_agent - INFO - Using fallback query due to API failure
+2025-09-16 13:19:37,854 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary
+2025-09-16 13:19:37,854 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 13:19:37,854 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary
+2025-09-16 13:19:37,854 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2024-2025
+2025-09-16 13:19:37,854 - hybrid_agent - INFO - ✅ Financial year unchanged (2024-2025), using cached data
+2025-09-16 13:19:37,855 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 13:19:37,855 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 13:19:37,856 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary
+2025-09-16 13:19:37,874 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 1508 rows
+2025-09-16 13:19:37,874 - hybrid_agent - INFO - ✅ Query execution completed, returned 1508 rows
+2025-09-16 13:19:37,874 - hybrid_agent - INFO - process_prompt completed successfully, returned 1508 rows
+2025-09-16 13:19:39,287 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:19:39] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 13:19:50,097 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:19:50,097 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:19:50,098 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:19:50,098 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:19:50,099 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:19:50] "[32mPOST /api/select-financial-year HTTP/1.1[0m" 302 -
+2025-09-16 13:19:50,105 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:19:50] "GET /api/ HTTP/1.1" 200 -
+2025-09-16 13:20:25,851 - hybrid_agent - INFO - process_prompt called with prompt: 'show me all tickets', financial_year: 2025-2026
+2025-09-16 13:20:25,852 - hybrid_agent - INFO - 🔍 Processing query: 'show me all tickets' for financial year: 2025-2026
+2025-09-16 13:20:25,852 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 13:20:25,855 - hybrid_agent - INFO - 🔄 Financial year changed from 2024-2025 to 2025-2026, loading new data
+2025-09-16 13:20:25,855 - hybrid_agent - INFO - 📊 Loading ticket summary for financial year: 2025-2026
+2025-09-16 13:20:25,858 - hybrid_agent - INFO - ✅ Successfully loaded 1258 rows, 32 columns
+2025-09-16 13:20:25,858 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 13:20:25,858 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 13:20:25,859 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 13:20:25,860 - hybrid_agent - INFO - 💾 Loading data into SQLite database
+2025-09-16 13:20:25,928 - hybrid_agent - INFO - ✅ Data loaded into SQLite for financial year 2025-2026
+2025-09-16 13:20:25,935 - hybrid_agent - DEBUG - Cleaning prompt: 'show me all tickets'
+2025-09-16 13:20:25,935 - hybrid_agent - DEBUG - Cleaned prompt: 'all tickets'
+2025-09-16 13:20:25,935 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'all tickets'
+2025-09-16 13:20:25,935 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 13:20:25,935 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 13:20:25,935 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 13:20:25,935 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 13:20:27,532 - hybrid_agent - ERROR - Groq API call failed: 401 Client Error: Unauthorized for url: https://api.groq.com/openai/v1/chat/completions
+2025-09-16 13:20:27,532 - hybrid_agent - INFO - Using fallback query due to API failure
+2025-09-16 13:20:27,532 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary
+2025-09-16 13:20:27,532 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 13:20:27,537 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary
+2025-09-16 13:20:27,538 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 13:20:27,538 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 13:20:27,538 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 13:20:27,539 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 13:20:27,540 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary
+2025-09-16 13:20:27,559 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 1258 rows
+2025-09-16 13:20:27,559 - hybrid_agent - INFO - ✅ Query execution completed, returned 1258 rows
+2025-09-16 13:20:27,559 - hybrid_agent - INFO - process_prompt completed successfully, returned 1258 rows
+2025-09-16 13:20:28,464 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:20:28] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 13:20:38,352 - hybrid_agent - INFO - process_prompt called with prompt: 'show me all tickets resolve by ravi', financial_year: 2025-2026
+2025-09-16 13:20:38,355 - hybrid_agent - INFO - 🔍 Processing query: 'show me all tickets resolve by ravi' for financial year: 2025-2026
+2025-09-16 13:20:38,357 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 13:20:38,358 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 13:20:38,359 - hybrid_agent - DEBUG - Cleaning prompt: 'show me all tickets resolve by ravi'
+2025-09-16 13:20:38,359 - hybrid_agent - DEBUG - Cleaned prompt: 'all tickets resolve by ravi'
+2025-09-16 13:20:38,359 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'all tickets resolve by ravi'
+2025-09-16 13:20:38,359 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 13:20:38,359 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 13:20:38,359 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 13:20:38,359 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 13:20:39,250 - hybrid_agent - ERROR - Groq API call failed: 401 Client Error: Unauthorized for url: https://api.groq.com/openai/v1/chat/completions
+2025-09-16 13:20:39,252 - hybrid_agent - INFO - Using fallback query due to API failure
+2025-09-16 13:20:39,260 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary
+2025-09-16 13:20:39,262 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 13:20:39,269 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary
+2025-09-16 13:20:39,313 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 13:20:39,403 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 13:20:39,416 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 13:20:39,435 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 13:20:39,435 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 13:20:39,436 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 13:20:39,451 - hybrid_agent - WARNING - ⚠️ ticket_summary table doesn't exist in SQLite, creating it
+2025-09-16 13:20:39,555 - hybrid_agent - INFO - ✅ ticket_summary table created in SQLite
+2025-09-16 13:20:39,559 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary
+2025-09-16 13:20:39,651 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 1258 rows
+2025-09-16 13:20:39,652 - hybrid_agent - INFO - ✅ Query execution completed, returned 1258 rows
+2025-09-16 13:20:39,653 - hybrid_agent - INFO - process_prompt completed successfully, returned 1258 rows
+2025-09-16 13:20:41,121 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:20:41] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 13:20:48,900 - hybrid_agent - INFO - process_prompt called with prompt: 'show me all tickets resolve by ravi', financial_year: 2025-2026
+2025-09-16 13:20:48,900 - hybrid_agent - INFO - 🔍 Processing query: 'show me all tickets resolve by ravi' for financial year: 2025-2026
+2025-09-16 13:20:48,900 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 13:20:48,900 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 13:20:48,900 - hybrid_agent - DEBUG - Cleaning prompt: 'show me all tickets resolve by ravi'
+2025-09-16 13:20:48,900 - hybrid_agent - DEBUG - Cleaned prompt: 'all tickets resolve by ravi'
+2025-09-16 13:20:48,900 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'all tickets resolve by ravi'
+2025-09-16 13:20:48,900 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 13:20:48,900 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 13:20:48,900 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 13:20:48,900 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 13:20:49,863 - hybrid_agent - ERROR - Groq API call failed: 401 Client Error: Unauthorized for url: https://api.groq.com/openai/v1/chat/completions
+2025-09-16 13:20:49,865 - hybrid_agent - INFO - Using fallback query due to API failure
+2025-09-16 13:20:49,869 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary
+2025-09-16 13:20:49,872 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 13:20:49,878 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary
+2025-09-16 13:20:49,908 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 13:20:49,917 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 13:20:49,928 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 13:20:49,935 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 13:20:49,935 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 13:20:49,943 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 13:20:49,945 - hybrid_agent - WARNING - ⚠️ ticket_summary table doesn't exist in SQLite, creating it
+2025-09-16 13:20:49,977 - hybrid_agent - INFO - ✅ ticket_summary table created in SQLite
+2025-09-16 13:20:49,982 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary
+2025-09-16 13:20:50,031 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 1258 rows
+2025-09-16 13:20:50,040 - hybrid_agent - INFO - ✅ Query execution completed, returned 1258 rows
+2025-09-16 13:20:50,042 - hybrid_agent - INFO - process_prompt completed successfully, returned 1258 rows
+2025-09-16 13:20:51,559 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:20:51] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 13:21:11,319 - hybrid_agent - INFO - process_prompt called with prompt: 'show me all tickets resolve by ravi', financial_year: 2025-2026
+2025-09-16 13:21:11,323 - hybrid_agent - INFO - 🔍 Processing query: 'show me all tickets resolve by ravi' for financial year: 2025-2026
+2025-09-16 13:21:11,326 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 13:21:11,326 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 13:21:11,326 - hybrid_agent - DEBUG - Cleaning prompt: 'show me all tickets resolve by ravi'
+2025-09-16 13:21:11,326 - hybrid_agent - DEBUG - Cleaned prompt: 'all tickets resolve by ravi'
+2025-09-16 13:21:11,326 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'all tickets resolve by ravi'
+2025-09-16 13:21:11,326 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 13:21:11,326 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 13:21:11,326 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 13:21:11,329 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 13:21:13,073 - hybrid_agent - ERROR - Groq API call failed: 401 Client Error: Unauthorized for url: https://api.groq.com/openai/v1/chat/completions
+2025-09-16 13:21:13,075 - hybrid_agent - INFO - Using fallback query due to API failure
+2025-09-16 13:21:13,077 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary
+2025-09-16 13:21:13,077 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 13:21:13,077 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary
+2025-09-16 13:21:13,077 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 13:21:13,077 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 13:21:13,077 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 13:21:13,077 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 13:21:13,077 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 13:21:13,077 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 13:21:13,077 - hybrid_agent - WARNING - ⚠️ ticket_summary table doesn't exist in SQLite, creating it
+2025-09-16 13:21:13,095 - hybrid_agent - INFO - ✅ ticket_summary table created in SQLite
+2025-09-16 13:21:13,099 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary
+2025-09-16 13:21:13,134 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 1258 rows
+2025-09-16 13:21:13,135 - hybrid_agent - INFO - ✅ Query execution completed, returned 1258 rows
+2025-09-16 13:21:13,135 - hybrid_agent - INFO - process_prompt completed successfully, returned 1258 rows
+2025-09-16 13:21:14,899 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:21:14] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 13:21:40,017 - hybrid_agent - INFO - process_prompt called with prompt: 'show me all tickets resolve by ravi', financial_year: 2025-2026
+2025-09-16 13:21:40,017 - hybrid_agent - INFO - 🔍 Processing query: 'show me all tickets resolve by ravi' for financial year: 2025-2026
+2025-09-16 13:21:40,017 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 13:21:40,020 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 13:21:40,021 - hybrid_agent - DEBUG - Cleaning prompt: 'show me all tickets resolve by ravi'
+2025-09-16 13:21:40,021 - hybrid_agent - DEBUG - Cleaned prompt: 'all tickets resolve by ravi'
+2025-09-16 13:21:40,021 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'all tickets resolve by ravi'
+2025-09-16 13:21:40,021 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 13:21:40,021 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 13:21:40,021 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 13:21:40,022 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 13:21:41,278 - hybrid_agent - ERROR - Groq API call failed: 401 Client Error: Unauthorized for url: https://api.groq.com/openai/v1/chat/completions
+2025-09-16 13:21:41,324 - hybrid_agent - INFO - Using fallback query due to API failure
+2025-09-16 13:21:41,349 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary
+2025-09-16 13:21:41,352 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 13:21:41,358 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary
+2025-09-16 13:21:41,358 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 13:21:41,358 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 13:21:41,358 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 13:21:41,358 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 13:21:41,358 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 13:21:41,358 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 13:21:41,364 - hybrid_agent - WARNING - ⚠️ ticket_summary table doesn't exist in SQLite, creating it
+2025-09-16 13:21:41,392 - hybrid_agent - INFO - ✅ ticket_summary table created in SQLite
+2025-09-16 13:21:41,393 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary
+2025-09-16 13:21:41,467 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 1258 rows
+2025-09-16 13:21:41,467 - hybrid_agent - INFO - ✅ Query execution completed, returned 1258 rows
+2025-09-16 13:21:41,467 - hybrid_agent - INFO - process_prompt completed successfully, returned 1258 rows
+2025-09-16 13:21:42,562 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:21:42] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 13:35:53,307 - hybrid_agent - INFO - process_prompt called with prompt: 'show me all tickets resolve by ravi', financial_year: 2025-2026
+2025-09-16 13:35:53,318 - hybrid_agent - INFO - 🔍 Processing query: 'show me all tickets resolve by ravi' for financial year: 2025-2026
+2025-09-16 13:35:53,322 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 13:35:53,324 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 13:35:53,325 - hybrid_agent - DEBUG - Cleaning prompt: 'show me all tickets resolve by ravi'
+2025-09-16 13:35:53,326 - hybrid_agent - DEBUG - Cleaned prompt: 'all tickets resolve by ravi'
+2025-09-16 13:35:53,326 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'all tickets resolve by ravi'
+2025-09-16 13:35:53,326 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 13:35:53,329 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 13:35:53,330 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 13:35:53,331 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 13:35:54,792 - hybrid_agent - ERROR - Groq API call failed: 401 Client Error: Unauthorized for url: https://api.groq.com/openai/v1/chat/completions
+2025-09-16 13:35:54,792 - hybrid_agent - INFO - Using fallback query due to API failure
+2025-09-16 13:35:54,800 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary
+2025-09-16 13:35:54,800 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 13:35:54,802 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary
+2025-09-16 13:35:54,806 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 13:35:54,806 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 13:35:54,806 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 13:35:54,806 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 13:35:54,807 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 13:35:54,829 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 13:35:54,837 - hybrid_agent - WARNING - ⚠️ ticket_summary table doesn't exist in SQLite, creating it
+2025-09-16 13:35:55,029 - hybrid_agent - INFO - ✅ ticket_summary table created in SQLite
+2025-09-16 13:35:55,030 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary
+2025-09-16 13:35:55,125 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 1258 rows
+2025-09-16 13:35:55,126 - hybrid_agent - INFO - ✅ Query execution completed, returned 1258 rows
+2025-09-16 13:35:55,127 - hybrid_agent - INFO - process_prompt completed successfully, returned 1258 rows
+2025-09-16 13:35:56,884 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:35:56] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 13:36:05,946 - hybrid_agent - INFO - process_prompt called with prompt: 'show me all tickets resolved by ravi', financial_year: 2025-2026
+2025-09-16 13:36:05,947 - hybrid_agent - INFO - 🔍 Processing query: 'show me all tickets resolved by ravi' for financial year: 2025-2026
+2025-09-16 13:36:05,947 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 13:36:05,947 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 13:36:05,947 - hybrid_agent - DEBUG - Cleaning prompt: 'show me all tickets resolved by ravi'
+2025-09-16 13:36:05,947 - hybrid_agent - DEBUG - Cleaned prompt: 'all tickets resolved by ravi'
+2025-09-16 13:36:05,947 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'all tickets resolved by ravi'
+2025-09-16 13:36:05,947 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 13:36:05,947 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 13:36:05,949 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 13:36:05,949 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 13:36:06,842 - hybrid_agent - ERROR - Groq API call failed: 401 Client Error: Unauthorized for url: https://api.groq.com/openai/v1/chat/completions
+2025-09-16 13:36:06,844 - hybrid_agent - INFO - Using fallback query due to API failure
+2025-09-16 13:36:06,847 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary
+2025-09-16 13:36:06,848 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 13:36:06,848 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary
+2025-09-16 13:36:06,848 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 13:36:06,849 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 13:36:06,849 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 13:36:06,849 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 13:36:06,850 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 13:36:06,850 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 13:36:06,851 - hybrid_agent - WARNING - ⚠️ ticket_summary table doesn't exist in SQLite, creating it
+2025-09-16 13:36:06,868 - hybrid_agent - INFO - ✅ ticket_summary table created in SQLite
+2025-09-16 13:36:06,868 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary
+2025-09-16 13:36:06,910 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 1258 rows
+2025-09-16 13:36:06,910 - hybrid_agent - INFO - ✅ Query execution completed, returned 1258 rows
+2025-09-16 13:36:06,910 - hybrid_agent - INFO - process_prompt completed successfully, returned 1258 rows
+2025-09-16 13:36:08,391 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:36:08] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 13:36:43,954 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Naman jain\\Desktop\\Internship Projects\\Ticket_Agent\\app\\config.py', reloading
+2025-09-16 13:36:45,111 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 13:36:45,859 - root - INFO - ✅ Unified logging initialized via config.py
+2025-09-16 13:36:47,789 - hybrid_agent - INFO - Creating HybridSQLGenerator instance
+2025-09-16 13:36:47,789 - hybrid_agent - INFO - 🚀 Initializing HybridSQLGenerator
+2025-09-16 13:36:47,789 - hybrid_agent - INFO - 📋 Loading available columns
+2025-09-16 13:36:47,789 - hybrid_agent - INFO - ✅ Loaded 27 calculated columns and 7 raw tables
+2025-09-16 13:36:47,789 - hybrid_agent - INFO - ✅ HybridSQLGenerator initialized successfully
+2025-09-16 13:36:47,789 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 13:36:47,789 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 13:36:47,789 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 13:36:47,789 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 13:36:48,031 - app - INFO - ✅ Database connection successful
+2025-09-16 13:36:48,031 - app - INFO - ✅ Database connection successful
+2025-09-16 13:36:48,031 - app - INFO - ✅ Database connection successful
+2025-09-16 13:36:48,031 - app - INFO - ✅ Database connection successful
+2025-09-16 13:36:48,082 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:36:48,082 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:36:48,084 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:36:48,084 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:36:48,085 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 13:36:48,085 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 13:36:48,086 - app - INFO - 🚀 Starting development server...
+2025-09-16 13:36:48,086 - app - INFO - 🚀 Starting development server...
+2025-09-16 13:36:48,087 - app - INFO - 📊 Debug mode: ON
+2025-09-16 13:36:48,087 - app - INFO - 📊 Debug mode: ON
+2025-09-16 13:36:48,087 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 13:36:48,087 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 13:36:48,088 - app - INFO - 🔌 Port: 5000
+2025-09-16 13:36:48,088 - app - INFO - 🔌 Port: 5000
+2025-09-16 13:36:48,088 - app - INFO - ==================================================
+2025-09-16 13:36:48,088 - app - INFO - ==================================================
+2025-09-16 13:36:48,164 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 13:36:48,184 - werkzeug - INFO -  * Debugger PIN: 119-134-647
+2025-09-16 13:36:52,018 - hybrid_agent - INFO - process_prompt called with prompt: 'show me all tickets resolved by ravi', financial_year: 2025-2026
+2025-09-16 13:36:52,023 - hybrid_agent - INFO - 🔍 Processing query: 'show me all tickets resolved by ravi' for financial year: 2025-2026
+2025-09-16 13:36:52,025 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 13:36:52,025 - hybrid_agent - INFO - 🔄 Financial year changed from None to 2025-2026, loading new data
+2025-09-16 13:36:52,026 - hybrid_agent - INFO - 📊 Loading ticket summary for financial year: 2025-2026
+2025-09-16 13:36:52,026 - hybrid_agent - INFO - ✅ Successfully loaded 1258 rows, 32 columns
+2025-09-16 13:36:52,027 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 13:36:52,027 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 13:36:52,028 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 13:36:52,029 - hybrid_agent - INFO - 💾 Loading data into SQLite database
+2025-09-16 13:36:52,069 - hybrid_agent - INFO - ✅ Data loaded into SQLite for financial year 2025-2026
+2025-09-16 13:36:52,073 - hybrid_agent - DEBUG - Cleaning prompt: 'show me all tickets resolved by ravi'
+2025-09-16 13:36:52,077 - hybrid_agent - DEBUG - Cleaned prompt: 'all tickets resolved by ravi'
+2025-09-16 13:36:52,078 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'all tickets resolved by ravi'
+2025-09-16 13:36:52,079 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 13:36:52,080 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 13:36:52,083 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 13:36:52,088 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 13:36:54,028 - hybrid_agent - ERROR - Groq API call failed: 401 Client Error: Unauthorized for url: https://api.groq.com/openai/v1/chat/completions
+2025-09-16 13:36:54,028 - hybrid_agent - INFO - Using fallback query due to API failure
+2025-09-16 13:36:54,034 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary
+2025-09-16 13:36:54,036 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 13:36:54,038 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary
+2025-09-16 13:36:54,038 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 13:36:54,038 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 13:36:54,042 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 13:36:54,043 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 13:36:54,047 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary
+2025-09-16 13:36:54,079 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 1258 rows
+2025-09-16 13:36:54,088 - hybrid_agent - INFO - ✅ Query execution completed, returned 1258 rows
+2025-09-16 13:36:54,090 - hybrid_agent - INFO - process_prompt completed successfully, returned 1258 rows
+2025-09-16 13:36:55,810 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:36:55] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 13:37:04,173 - app - INFO -  Loaded ticket summary from ticket_summary_report_2024_2025.csv
+2025-09-16 13:37:04,173 - app - INFO -  Loaded ticket summary from ticket_summary_report_2024_2025.csv
+2025-09-16 13:37:04,173 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2024_2025.csv
+2025-09-16 13:37:04,173 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2024_2025.csv
+2025-09-16 13:37:04,173 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:37:04] "[32mPOST /api/select-financial-year HTTP/1.1[0m" 302 -
+2025-09-16 13:37:04,193 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:37:04] "GET /api/ HTTP/1.1" 200 -
+2025-09-16 13:37:19,850 - hybrid_agent - INFO - process_prompt called with prompt: 'show me all tickets solve by ravi', financial_year: 2024-2025
+2025-09-16 13:37:19,852 - hybrid_agent - INFO - 🔍 Processing query: 'show me all tickets solve by ravi' for financial year: 2024-2025
+2025-09-16 13:37:19,853 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2024-2025
+2025-09-16 13:37:19,855 - hybrid_agent - INFO - 🔄 Financial year changed from 2025-2026 to 2024-2025, loading new data
+2025-09-16 13:37:19,860 - hybrid_agent - INFO - 📊 Loading ticket summary for financial year: 2024-2025
+2025-09-16 13:37:19,861 - hybrid_agent - INFO - ✅ Successfully loaded 1508 rows, 32 columns
+2025-09-16 13:37:19,861 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 13:37:19,862 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 13:37:19,863 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 13:37:19,867 - hybrid_agent - INFO - 💾 Loading data into SQLite database
+2025-09-16 13:37:19,999 - hybrid_agent - INFO - ✅ Data loaded into SQLite for financial year 2024-2025
+2025-09-16 13:37:20,004 - hybrid_agent - DEBUG - Cleaning prompt: 'show me all tickets solve by ravi'
+2025-09-16 13:37:20,007 - hybrid_agent - DEBUG - Cleaned prompt: 'all tickets solve by ravi'
+2025-09-16 13:37:20,008 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'all tickets solve by ravi'
+2025-09-16 13:37:20,009 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 13:37:20,009 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 13:37:20,009 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 13:37:20,011 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 13:37:20,998 - hybrid_agent - ERROR - Groq API call failed: 401 Client Error: Unauthorized for url: https://api.groq.com/openai/v1/chat/completions
+2025-09-16 13:37:21,002 - hybrid_agent - INFO - Using fallback query due to API failure
+2025-09-16 13:37:21,009 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary
+2025-09-16 13:37:21,012 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 13:37:21,012 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary
+2025-09-16 13:37:21,013 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2024-2025
+2025-09-16 13:37:21,013 - hybrid_agent - INFO - ✅ Financial year unchanged (2024-2025), using cached data
+2025-09-16 13:37:21,013 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 13:37:21,013 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 13:37:21,014 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary
+2025-09-16 13:37:21,067 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 1508 rows
+2025-09-16 13:37:21,070 - hybrid_agent - INFO - ✅ Query execution completed, returned 1508 rows
+2025-09-16 13:37:21,073 - hybrid_agent - INFO - process_prompt completed successfully, returned 1508 rows
+2025-09-16 13:37:22,815 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:37:22] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 13:37:45,425 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Naman jain\\Desktop\\Internship Projects\\Ticket_Agent\\app\\config.py', reloading
+2025-09-16 13:37:46,066 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 13:37:48,072 - root - INFO - ✅ Unified logging initialized via config.py
+2025-09-16 13:37:54,264 - hybrid_agent - INFO - Creating HybridSQLGenerator instance
+2025-09-16 13:37:54,264 - hybrid_agent - INFO - 🚀 Initializing HybridSQLGenerator
+2025-09-16 13:37:54,264 - hybrid_agent - INFO - 📋 Loading available columns
+2025-09-16 13:37:54,265 - hybrid_agent - INFO - ✅ Loaded 27 calculated columns and 7 raw tables
+2025-09-16 13:37:54,265 - hybrid_agent - INFO - ✅ HybridSQLGenerator initialized successfully
+2025-09-16 13:37:54,271 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 13:37:54,271 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 13:37:54,272 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 13:37:54,272 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 13:37:54,422 - app - INFO - ✅ Database connection successful
+2025-09-16 13:37:54,422 - app - INFO - ✅ Database connection successful
+2025-09-16 13:37:54,422 - app - INFO - ✅ Database connection successful
+2025-09-16 13:37:54,422 - app - INFO - ✅ Database connection successful
+2025-09-16 13:37:54,496 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:37:54,496 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:37:54,497 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:37:54,497 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:37:54,497 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 13:37:54,497 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 13:37:54,498 - app - INFO - 🚀 Starting development server...
+2025-09-16 13:37:54,498 - app - INFO - 🚀 Starting development server...
+2025-09-16 13:37:54,498 - app - INFO - 📊 Debug mode: ON
+2025-09-16 13:37:54,498 - app - INFO - 📊 Debug mode: ON
+2025-09-16 13:37:54,499 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 13:37:54,499 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 13:37:54,499 - app - INFO - 🔌 Port: 5000
+2025-09-16 13:37:54,499 - app - INFO - 🔌 Port: 5000
+2025-09-16 13:37:54,500 - app - INFO - ==================================================
+2025-09-16 13:37:54,500 - app - INFO - ==================================================
+2025-09-16 13:37:54,511 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 13:37:54,530 - werkzeug - INFO -  * Debugger PIN: 119-134-647
+2025-09-16 13:40:06,172 - root - INFO - ✅ Unified logging initialized via config.py
+2025-09-16 13:40:07,584 - hybrid_agent - INFO - Creating HybridSQLGenerator instance
+2025-09-16 13:40:07,584 - hybrid_agent - INFO - 🚀 Initializing HybridSQLGenerator
+2025-09-16 13:40:07,584 - hybrid_agent - INFO - 📋 Loading available columns
+2025-09-16 13:40:07,584 - hybrid_agent - INFO - ✅ Loaded 27 calculated columns and 7 raw tables
+2025-09-16 13:40:07,584 - hybrid_agent - INFO - ✅ HybridSQLGenerator initialized successfully
+2025-09-16 13:40:07,600 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 13:40:07,600 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 13:40:07,600 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 13:40:07,600 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 13:40:07,726 - app - INFO - ✅ Database connection successful
+2025-09-16 13:40:07,726 - app - INFO - ✅ Database connection successful
+2025-09-16 13:40:07,742 - app - INFO - ✅ Database connection successful
+2025-09-16 13:40:07,742 - app - INFO - ✅ Database connection successful
+2025-09-16 13:40:07,771 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:40:07,771 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:40:07,771 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:40:07,771 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:40:07,771 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 13:40:07,771 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 13:40:07,771 - app - INFO - 🚀 Starting development server...
+2025-09-16 13:40:07,771 - app - INFO - 🚀 Starting development server...
+2025-09-16 13:40:07,771 - app - INFO - 📊 Debug mode: ON
+2025-09-16 13:40:07,771 - app - INFO - 📊 Debug mode: ON
+2025-09-16 13:40:07,771 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 13:40:07,771 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 13:40:07,771 - app - INFO - 🔌 Port: 5000
+2025-09-16 13:40:07,771 - app - INFO - 🔌 Port: 5000
+2025-09-16 13:40:07,771 - app - INFO - ==================================================
+2025-09-16 13:40:07,771 - app - INFO - ==================================================
+2025-09-16 13:40:07,841 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+2025-09-16 13:40:07,841 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-16 13:40:07,845 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 13:40:08,406 - root - INFO - ✅ Unified logging initialized via config.py
+2025-09-16 13:40:09,882 - hybrid_agent - INFO - Creating HybridSQLGenerator instance
+2025-09-16 13:40:09,882 - hybrid_agent - INFO - 🚀 Initializing HybridSQLGenerator
+2025-09-16 13:40:09,882 - hybrid_agent - INFO - 📋 Loading available columns
+2025-09-16 13:40:09,897 - hybrid_agent - INFO - ✅ Loaded 27 calculated columns and 7 raw tables
+2025-09-16 13:40:09,897 - hybrid_agent - INFO - ✅ HybridSQLGenerator initialized successfully
+2025-09-16 13:40:09,897 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 13:40:09,897 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 13:40:09,897 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 13:40:09,897 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 13:40:09,986 - app - INFO - ✅ Database connection successful
+2025-09-16 13:40:09,986 - app - INFO - ✅ Database connection successful
+2025-09-16 13:40:09,986 - app - INFO - ✅ Database connection successful
+2025-09-16 13:40:09,986 - app - INFO - ✅ Database connection successful
+2025-09-16 13:40:10,014 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:40:10,014 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:40:10,014 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:40:10,014 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 13:40:10,014 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 13:40:10,014 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 13:40:10,014 - app - INFO - 🚀 Starting development server...
+2025-09-16 13:40:10,014 - app - INFO - 🚀 Starting development server...
+2025-09-16 13:40:10,014 - app - INFO - 📊 Debug mode: ON
+2025-09-16 13:40:10,014 - app - INFO - 📊 Debug mode: ON
+2025-09-16 13:40:10,020 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 13:40:10,020 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 13:40:10,021 - app - INFO - 🔌 Port: 5000
+2025-09-16 13:40:10,021 - app - INFO - 🔌 Port: 5000
+2025-09-16 13:40:10,022 - app - INFO - ==================================================
+2025-09-16 13:40:10,022 - app - INFO - ==================================================
+2025-09-16 13:40:10,040 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 13:40:10,049 - werkzeug - INFO -  * Debugger PIN: 119-134-647
+2025-09-16 13:40:18,292 - hybrid_agent - INFO - process_prompt called with prompt: 'show me all tickets solve by ravi', financial_year: 2024-2025
+2025-09-16 13:40:18,292 - hybrid_agent - INFO - 🔍 Processing query: 'show me all tickets solve by ravi' for financial year: 2024-2025
+2025-09-16 13:40:18,296 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2024-2025
+2025-09-16 13:40:18,298 - hybrid_agent - INFO - 🔄 Financial year changed from None to 2024-2025, loading new data
+2025-09-16 13:40:18,298 - hybrid_agent - INFO - 📊 Loading ticket summary for financial year: 2024-2025
+2025-09-16 13:40:18,366 - app - INFO -  Loaded ticket summary from ticket_summary_report_2024_2025.csv
+2025-09-16 13:40:18,366 - app - INFO -  Loaded ticket summary from ticket_summary_report_2024_2025.csv
+2025-09-16 13:40:18,370 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2024_2025.csv
+2025-09-16 13:40:18,370 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2024_2025.csv
+2025-09-16 13:40:18,375 - hybrid_agent - INFO - ✅ Successfully loaded 1508 rows, 32 columns
+2025-09-16 13:40:18,377 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 13:40:18,382 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 13:40:18,543 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 13:40:18,551 - hybrid_agent - INFO - 💾 Loading data into SQLite database
+2025-09-16 13:40:18,596 - hybrid_agent - INFO - ✅ Data loaded into SQLite for financial year 2024-2025
+2025-09-16 13:40:18,597 - hybrid_agent - DEBUG - Cleaning prompt: 'show me all tickets solve by ravi'
+2025-09-16 13:40:18,598 - hybrid_agent - DEBUG - Cleaned prompt: 'all tickets solve by ravi'
+2025-09-16 13:40:18,598 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'all tickets solve by ravi'
+2025-09-16 13:40:18,598 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 13:40:18,598 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 13:40:18,598 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 13:40:18,599 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 13:40:20,174 - hybrid_agent - INFO - Groq API call successful
+2025-09-16 13:40:20,177 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%ravi%'
+2025-09-16 13:40:20,177 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 13:40:20,178 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%ravi%'
+2025-09-16 13:40:20,178 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2024-2025
+2025-09-16 13:40:20,178 - hybrid_agent - INFO - ✅ Financial year unchanged (2024-2025), using cached data
+2025-09-16 13:40:20,178 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 13:40:20,178 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 13:40:20,178 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%ravi%'
+2025-09-16 13:40:20,185 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 253 rows
+2025-09-16 13:40:20,185 - hybrid_agent - INFO - ✅ Query execution completed, returned 253 rows
+2025-09-16 13:40:20,187 - hybrid_agent - INFO - process_prompt completed successfully, returned 253 rows
+2025-09-16 13:40:21,191 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 13:40:21] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 14:23:45,081 - root - INFO - ✅ Unified logging initialized via config.py
+2025-09-16 14:23:48,339 - hybrid_agent - INFO - Creating HybridSQLGenerator instance
+2025-09-16 14:23:48,339 - hybrid_agent - INFO - 🚀 Initializing HybridSQLGenerator
+2025-09-16 14:23:48,339 - hybrid_agent - INFO - 📋 Loading available columns
+2025-09-16 14:23:48,341 - hybrid_agent - INFO - ✅ Loaded 27 calculated columns and 7 raw tables
+2025-09-16 14:23:48,341 - hybrid_agent - INFO - ✅ HybridSQLGenerator initialized successfully
+2025-09-16 14:23:48,343 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 14:23:48,343 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 14:23:48,343 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 14:23:48,343 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 14:23:49,369 - app - INFO - ✅ Database connection successful
+2025-09-16 14:23:49,369 - app - INFO - ✅ Database connection successful
+2025-09-16 14:23:49,479 - app - INFO - ✅ Database connection successful
+2025-09-16 14:23:49,479 - app - INFO - ✅ Database connection successful
+2025-09-16 14:23:49,825 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:23:49,825 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:23:49,834 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:23:49,834 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:23:49,853 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 14:23:49,853 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 14:23:49,894 - app - INFO - 🚀 Starting development server...
+2025-09-16 14:23:49,894 - app - INFO - 🚀 Starting development server...
+2025-09-16 14:23:49,935 - app - INFO - 📊 Debug mode: ON
+2025-09-16 14:23:49,935 - app - INFO - 📊 Debug mode: ON
+2025-09-16 14:23:49,938 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 14:23:49,938 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 14:23:49,939 - app - INFO - 🔌 Port: 5000
+2025-09-16 14:23:49,939 - app - INFO - 🔌 Port: 5000
+2025-09-16 14:23:49,942 - app - INFO - ==================================================
+2025-09-16 14:23:49,942 - app - INFO - ==================================================
+2025-09-16 14:23:50,234 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+2025-09-16 14:23:50,236 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-16 14:23:50,260 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 14:23:55,293 - root - INFO - ✅ Unified logging initialized via config.py
+2025-09-16 14:24:05,833 - hybrid_agent - INFO - Creating HybridSQLGenerator instance
+2025-09-16 14:24:05,835 - hybrid_agent - INFO - 🚀 Initializing HybridSQLGenerator
+2025-09-16 14:24:05,837 - hybrid_agent - INFO - 📋 Loading available columns
+2025-09-16 14:24:05,837 - hybrid_agent - INFO - ✅ Loaded 27 calculated columns and 7 raw tables
+2025-09-16 14:24:05,837 - hybrid_agent - INFO - ✅ HybridSQLGenerator initialized successfully
+2025-09-16 14:24:05,921 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 14:24:05,921 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 14:24:05,988 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 14:24:05,988 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 14:24:06,376 - app - INFO - ✅ Database connection successful
+2025-09-16 14:24:06,376 - app - INFO - ✅ Database connection successful
+2025-09-16 14:24:06,378 - app - INFO - ✅ Database connection successful
+2025-09-16 14:24:06,378 - app - INFO - ✅ Database connection successful
+2025-09-16 14:24:06,752 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:24:06,752 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:24:06,754 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:24:06,754 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:24:06,758 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 14:24:06,758 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 14:24:06,760 - app - INFO - 🚀 Starting development server...
+2025-09-16 14:24:06,760 - app - INFO - 🚀 Starting development server...
+2025-09-16 14:24:06,762 - app - INFO - 📊 Debug mode: ON
+2025-09-16 14:24:06,762 - app - INFO - 📊 Debug mode: ON
+2025-09-16 14:24:06,762 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 14:24:06,762 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 14:24:06,768 - app - INFO - 🔌 Port: 5000
+2025-09-16 14:24:06,768 - app - INFO - 🔌 Port: 5000
+2025-09-16 14:24:06,768 - app - INFO - ==================================================
+2025-09-16 14:24:06,768 - app - INFO - ==================================================
+2025-09-16 14:24:06,928 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 14:24:06,979 - werkzeug - INFO -  * Debugger PIN: 119-134-647
+2025-09-16 14:24:07,217 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:24:07] "[33mGET / HTTP/1.1[0m" 404 -
+2025-09-16 14:24:07,477 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:24:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-16 14:24:13,669 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:24:13] "GET /api/ HTTP/1.1" 200 -
+2025-09-16 14:24:45,677 - hybrid_agent - INFO - process_prompt called with prompt: 'get tickets resolve by clouddev on 15 sep 2025', financial_year: 2025-2026
+2025-09-16 14:24:45,677 - hybrid_agent - INFO - 🔍 Processing query: 'get tickets resolve by clouddev on 15 sep 2025' for financial year: 2025-2026
+2025-09-16 14:24:45,679 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:24:45,679 - hybrid_agent - INFO - 🔄 Financial year changed from None to 2025-2026, loading new data
+2025-09-16 14:24:45,686 - hybrid_agent - INFO - 📊 Loading ticket summary for financial year: 2025-2026
+2025-09-16 14:24:45,686 - hybrid_agent - INFO - ✅ Successfully loaded 1258 rows, 32 columns
+2025-09-16 14:24:45,688 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:24:45,693 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 14:24:45,779 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 14:24:45,802 - hybrid_agent - INFO - 💾 Loading data into SQLite database
+2025-09-16 14:24:45,914 - hybrid_agent - INFO - ✅ Data loaded into SQLite for financial year 2025-2026
+2025-09-16 14:24:45,914 - hybrid_agent - DEBUG - Cleaning prompt: 'get tickets resolve by clouddev on 15 sep 2025'
+2025-09-16 14:24:45,914 - hybrid_agent - DEBUG - Cleaned prompt: 'get tickets resolve by clouddev on 15 sep 2025'
+2025-09-16 14:24:45,914 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'get tickets resolve by clouddev on 15 sep 2025'
+2025-09-16 14:24:45,914 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 14:24:45,914 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 14:24:45,914 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 14:24:45,914 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 14:24:49,911 - hybrid_agent - INFO - Groq API call successful
+2025-09-16 14:24:49,918 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:24:49,919 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 14:24:49,919 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:24:49,920 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:24:49,920 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:24:49,928 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 14:24:49,928 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:24:49,930 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:24:49,974 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 0 rows
+2025-09-16 14:24:49,978 - hybrid_agent - INFO - ✅ Query execution completed, returned 0 rows
+2025-09-16 14:24:49,988 - hybrid_agent - INFO - process_prompt completed successfully, returned 0 rows
+2025-09-16 14:24:50,012 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:24:50] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 14:25:12,935 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Naman jain\\Desktop\\Internship Projects\\Ticket_Agent\\app\\services\\hybrid_agent.py', reloading
+2025-09-16 14:25:14,629 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 14:25:16,144 - root - INFO - ✅ Unified logging initialized via config.py
+2025-09-16 14:25:18,838 - hybrid_agent - INFO - Creating HybridSQLGenerator instance
+2025-09-16 14:25:18,838 - hybrid_agent - INFO - 🚀 Initializing HybridSQLGenerator
+2025-09-16 14:25:18,839 - hybrid_agent - INFO - 📋 Loading available columns
+2025-09-16 14:25:18,839 - hybrid_agent - INFO - ✅ Loaded 27 calculated columns and 7 raw tables
+2025-09-16 14:25:18,840 - hybrid_agent - INFO - ✅ HybridSQLGenerator initialized successfully
+2025-09-16 14:25:18,846 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 14:25:18,846 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 14:25:18,846 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 14:25:18,846 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 14:25:19,058 - app - INFO - ✅ Database connection successful
+2025-09-16 14:25:19,058 - app - INFO - ✅ Database connection successful
+2025-09-16 14:25:19,059 - app - INFO - ✅ Database connection successful
+2025-09-16 14:25:19,059 - app - INFO - ✅ Database connection successful
+2025-09-16 14:25:19,112 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:25:19,112 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:25:19,114 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:25:19,114 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:25:19,116 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 14:25:19,116 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 14:25:19,117 - app - INFO - 🚀 Starting development server...
+2025-09-16 14:25:19,117 - app - INFO - 🚀 Starting development server...
+2025-09-16 14:25:19,117 - app - INFO - 📊 Debug mode: ON
+2025-09-16 14:25:19,117 - app - INFO - 📊 Debug mode: ON
+2025-09-16 14:25:19,118 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 14:25:19,118 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 14:25:19,119 - app - INFO - 🔌 Port: 5000
+2025-09-16 14:25:19,119 - app - INFO - 🔌 Port: 5000
+2025-09-16 14:25:19,120 - app - INFO - ==================================================
+2025-09-16 14:25:19,120 - app - INFO - ==================================================
+2025-09-16 14:25:19,171 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 14:25:19,182 - werkzeug - INFO -  * Debugger PIN: 119-134-647
+2025-09-16 14:25:29,301 - hybrid_agent - INFO - process_prompt called with prompt: 'get tickets resolve by clouddev on 15 sep 2025', financial_year: 2025-2026
+2025-09-16 14:25:29,301 - hybrid_agent - INFO - 🔍 Processing query: 'get tickets resolve by clouddev on 15 sep 2025' for financial year: 2025-2026
+2025-09-16 14:25:29,301 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:25:29,305 - hybrid_agent - INFO - 🔄 Financial year changed from None to 2025-2026, loading new data
+2025-09-16 14:25:29,305 - hybrid_agent - INFO - 📊 Loading ticket summary for financial year: 2025-2026
+2025-09-16 14:25:29,306 - hybrid_agent - INFO - ✅ Successfully loaded 1258 rows, 32 columns
+2025-09-16 14:25:29,306 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:25:29,306 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 14:25:29,307 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 14:25:29,308 - hybrid_agent - INFO - 💾 Loading data into SQLite database
+2025-09-16 14:25:29,365 - hybrid_agent - INFO - ✅ Data loaded into SQLite for financial year 2025-2026
+2025-09-16 14:25:29,386 - hybrid_agent - DEBUG - Cleaning prompt: 'get tickets resolve by clouddev on 15 sep 2025'
+2025-09-16 14:25:29,391 - hybrid_agent - DEBUG - Cleaned prompt: 'get tickets resolve by clouddev on 15 sep 2025'
+2025-09-16 14:25:29,392 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'get tickets resolve by clouddev on 15 sep 2025'
+2025-09-16 14:25:29,392 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 14:25:29,392 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 14:25:29,394 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 14:25:29,430 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 14:25:31,986 - hybrid_agent - INFO - Groq API call successful
+2025-09-16 14:25:31,986 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:25:31,986 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 14:25:31,986 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:25:31,986 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:25:31,986 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:25:31,986 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 14:25:31,986 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:25:31,986 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:25:32,003 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 0 rows
+2025-09-16 14:25:32,003 - hybrid_agent - INFO - ✅ Query execution completed, returned 0 rows
+2025-09-16 14:25:32,004 - hybrid_agent - INFO - process_prompt completed successfully, returned 0 rows
+2025-09-16 14:25:32,040 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:25:32] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 14:25:36,119 - hybrid_agent - INFO - process_prompt called with prompt: 'get tickets resolve by clouddev on 15 sep 2025', financial_year: 2025-2026
+2025-09-16 14:25:36,119 - hybrid_agent - INFO - 🔍 Processing query: 'get tickets resolve by clouddev on 15 sep 2025' for financial year: 2025-2026
+2025-09-16 14:25:36,121 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:25:36,123 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:25:36,124 - hybrid_agent - DEBUG - Cleaning prompt: 'get tickets resolve by clouddev on 15 sep 2025'
+2025-09-16 14:25:36,124 - hybrid_agent - DEBUG - Cleaned prompt: 'get tickets resolve by clouddev on 15 sep 2025'
+2025-09-16 14:25:36,124 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'get tickets resolve by clouddev on 15 sep 2025'
+2025-09-16 14:25:36,124 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 14:25:36,124 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 14:25:36,124 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 14:25:36,125 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 14:25:37,715 - hybrid_agent - INFO - Groq API call successful
+2025-09-16 14:25:37,720 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:25:37,720 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 14:25:37,721 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:25:37,721 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:25:37,721 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:25:37,722 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 14:25:37,722 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:25:37,722 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 14:25:37,723 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 14:25:37,723 - hybrid_agent - WARNING - ⚠️ ticket_summary table doesn't exist in SQLite, creating it
+2025-09-16 14:25:37,761 - hybrid_agent - INFO - ✅ ticket_summary table created in SQLite
+2025-09-16 14:25:37,764 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:25:37,773 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 0 rows
+2025-09-16 14:25:37,775 - hybrid_agent - INFO - ✅ Query execution completed, returned 0 rows
+2025-09-16 14:25:37,777 - hybrid_agent - INFO - process_prompt completed successfully, returned 0 rows
+2025-09-16 14:25:37,785 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:25:37] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 14:25:40,846 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Naman jain\\Desktop\\Internship Projects\\Ticket_Agent\\app\\services\\hybrid_agent.py', reloading
+2025-09-16 14:25:41,626 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 14:25:43,015 - root - INFO - ✅ Unified logging initialized via config.py
+2025-09-16 14:25:46,440 - hybrid_agent - INFO - Creating HybridSQLGenerator instance
+2025-09-16 14:25:46,440 - hybrid_agent - INFO - 🚀 Initializing HybridSQLGenerator
+2025-09-16 14:25:46,442 - hybrid_agent - INFO - 📋 Loading available columns
+2025-09-16 14:25:46,442 - hybrid_agent - INFO - ✅ Loaded 27 calculated columns and 7 raw tables
+2025-09-16 14:25:46,443 - hybrid_agent - INFO - ✅ HybridSQLGenerator initialized successfully
+2025-09-16 14:25:46,452 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 14:25:46,452 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 14:25:46,452 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 14:25:46,452 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 14:25:46,622 - app - INFO - ✅ Database connection successful
+2025-09-16 14:25:46,622 - app - INFO - ✅ Database connection successful
+2025-09-16 14:25:46,622 - app - INFO - ✅ Database connection successful
+2025-09-16 14:25:46,622 - app - INFO - ✅ Database connection successful
+2025-09-16 14:25:46,690 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:25:46,690 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:25:46,692 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:25:46,692 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:25:46,694 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 14:25:46,694 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 14:25:46,694 - app - INFO - 🚀 Starting development server...
+2025-09-16 14:25:46,694 - app - INFO - 🚀 Starting development server...
+2025-09-16 14:25:46,696 - app - INFO - 📊 Debug mode: ON
+2025-09-16 14:25:46,696 - app - INFO - 📊 Debug mode: ON
+2025-09-16 14:25:46,699 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 14:25:46,699 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 14:25:46,701 - app - INFO - 🔌 Port: 5000
+2025-09-16 14:25:46,701 - app - INFO - 🔌 Port: 5000
+2025-09-16 14:25:46,703 - app - INFO - ==================================================
+2025-09-16 14:25:46,703 - app - INFO - ==================================================
+2025-09-16 14:25:46,753 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 14:25:46,759 - werkzeug - INFO -  * Debugger PIN: 119-134-647
+2025-09-16 14:26:46,498 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Naman jain\\Desktop\\Internship Projects\\Ticket_Agent\\app\\services\\hybrid_agent.py', reloading
+2025-09-16 14:26:47,659 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 14:26:49,336 - root - INFO - ✅ Unified logging initialized via config.py
+2025-09-16 14:26:51,732 - hybrid_agent - INFO - Creating HybridSQLGenerator instance
+2025-09-16 14:26:51,732 - hybrid_agent - INFO - 🚀 Initializing HybridSQLGenerator
+2025-09-16 14:26:51,732 - hybrid_agent - INFO - 📋 Loading available columns
+2025-09-16 14:26:51,732 - hybrid_agent - INFO - ✅ Loaded 27 calculated columns and 7 raw tables
+2025-09-16 14:26:51,732 - hybrid_agent - INFO - ✅ HybridSQLGenerator initialized successfully
+2025-09-16 14:26:51,732 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 14:26:51,732 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 14:26:51,732 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 14:26:51,732 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 14:26:51,876 - app - INFO - ✅ Database connection successful
+2025-09-16 14:26:51,876 - app - INFO - ✅ Database connection successful
+2025-09-16 14:26:51,877 - app - INFO - ✅ Database connection successful
+2025-09-16 14:26:51,877 - app - INFO - ✅ Database connection successful
+2025-09-16 14:26:51,908 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:26:51,908 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:26:51,909 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:26:51,909 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:26:51,910 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 14:26:51,910 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 14:26:51,910 - app - INFO - 🚀 Starting development server...
+2025-09-16 14:26:51,910 - app - INFO - 🚀 Starting development server...
+2025-09-16 14:26:51,911 - app - INFO - 📊 Debug mode: ON
+2025-09-16 14:26:51,911 - app - INFO - 📊 Debug mode: ON
+2025-09-16 14:26:51,911 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 14:26:51,911 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 14:26:51,912 - app - INFO - 🔌 Port: 5000
+2025-09-16 14:26:51,912 - app - INFO - 🔌 Port: 5000
+2025-09-16 14:26:51,913 - app - INFO - ==================================================
+2025-09-16 14:26:51,913 - app - INFO - ==================================================
+2025-09-16 14:26:51,945 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 14:26:51,957 - werkzeug - INFO -  * Debugger PIN: 119-134-647
+2025-09-16 14:26:56,460 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Naman jain\\Desktop\\Internship Projects\\Ticket_Agent\\app\\services\\hybrid_agent.py', reloading
+2025-09-16 14:26:56,992 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 14:26:59,291 - root - INFO - ✅ Unified logging initialized via config.py
+2025-09-16 14:27:03,626 - hybrid_agent - INFO - Creating HybridSQLGenerator instance
+2025-09-16 14:27:03,626 - hybrid_agent - INFO - 🚀 Initializing HybridSQLGenerator
+2025-09-16 14:27:03,626 - hybrid_agent - INFO - 📋 Loading available columns
+2025-09-16 14:27:03,626 - hybrid_agent - INFO - ✅ Loaded 27 calculated columns and 7 raw tables
+2025-09-16 14:27:03,626 - hybrid_agent - INFO - ✅ HybridSQLGenerator initialized successfully
+2025-09-16 14:27:03,642 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 14:27:03,642 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 14:27:03,644 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 14:27:03,644 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 14:27:03,736 - app - INFO - ✅ Database connection successful
+2025-09-16 14:27:03,736 - app - INFO - ✅ Database connection successful
+2025-09-16 14:27:03,736 - app - INFO - ✅ Database connection successful
+2025-09-16 14:27:03,736 - app - INFO - ✅ Database connection successful
+2025-09-16 14:27:03,781 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:27:03,781 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:27:03,781 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:27:03,781 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:27:03,783 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 14:27:03,783 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 14:27:03,783 - app - INFO - 🚀 Starting development server...
+2025-09-16 14:27:03,783 - app - INFO - 🚀 Starting development server...
+2025-09-16 14:27:03,786 - app - INFO - 📊 Debug mode: ON
+2025-09-16 14:27:03,786 - app - INFO - 📊 Debug mode: ON
+2025-09-16 14:27:03,787 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 14:27:03,787 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 14:27:03,788 - app - INFO - 🔌 Port: 5000
+2025-09-16 14:27:03,788 - app - INFO - 🔌 Port: 5000
+2025-09-16 14:27:03,788 - app - INFO - ==================================================
+2025-09-16 14:27:03,788 - app - INFO - ==================================================
+2025-09-16 14:27:03,805 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 14:27:03,818 - werkzeug - INFO -  * Debugger PIN: 119-134-647
+2025-09-16 14:27:03,901 - hybrid_agent - INFO - process_prompt called with prompt: 'get tickets resolve by clouddev on 15 sep 2025', financial_year: 2025-2026
+2025-09-16 14:27:03,902 - hybrid_agent - INFO - 🔍 Processing query: 'get tickets resolve by clouddev on 15 sep 2025' for financial year: 2025-2026
+2025-09-16 14:27:03,902 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:27:03,902 - hybrid_agent - INFO - 🔄 Financial year changed from None to 2025-2026, loading new data
+2025-09-16 14:27:03,902 - hybrid_agent - INFO - 📊 Loading ticket summary for financial year: 2025-2026
+2025-09-16 14:27:03,903 - hybrid_agent - INFO - ✅ Successfully loaded 1258 rows, 32 columns
+2025-09-16 14:27:03,903 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:27:03,903 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 14:27:03,913 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 14:27:03,913 - hybrid_agent - INFO - 💾 Loading data into SQLite database
+2025-09-16 14:27:03,950 - hybrid_agent - INFO - ✅ Data loaded into SQLite for financial year 2025-2026
+2025-09-16 14:27:03,950 - hybrid_agent - DEBUG - Cleaning prompt: 'get tickets resolve by clouddev on 15 sep 2025'
+2025-09-16 14:27:03,950 - hybrid_agent - DEBUG - Cleaned prompt: 'get tickets resolve by clouddev on 15 sep 2025'
+2025-09-16 14:27:03,950 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'get tickets resolve by clouddev on 15 sep 2025'
+2025-09-16 14:27:03,950 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 14:27:03,950 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 14:27:03,950 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 14:27:03,950 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 14:27:06,841 - hybrid_agent - INFO - Groq API call successful
+2025-09-16 14:27:06,841 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:27:06,841 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 14:27:06,841 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:27:06,841 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:27:06,841 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:27:06,841 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 14:27:06,841 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:27:06,841 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:27:06,860 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 0 rows
+2025-09-16 14:27:06,860 - hybrid_agent - INFO - ✅ Query execution completed, returned 0 rows
+2025-09-16 14:27:06,861 - hybrid_agent - INFO - process_prompt completed successfully, returned 0 rows
+2025-09-16 14:27:06,902 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:27:06] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 14:27:29,301 - root - INFO - ✅ Unified logging initialized via config.py
+2025-09-16 14:27:30,890 - hybrid_agent - INFO - Creating HybridSQLGenerator instance
+2025-09-16 14:27:30,890 - hybrid_agent - INFO - 🚀 Initializing HybridSQLGenerator
+2025-09-16 14:27:30,890 - hybrid_agent - INFO - 📋 Loading available columns
+2025-09-16 14:27:30,890 - hybrid_agent - INFO - ✅ Loaded 27 calculated columns and 7 raw tables
+2025-09-16 14:27:30,890 - hybrid_agent - INFO - ✅ HybridSQLGenerator initialized successfully
+2025-09-16 14:27:30,890 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 14:27:30,890 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 14:27:30,890 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 14:27:30,890 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 14:27:31,076 - app - INFO - ✅ Database connection successful
+2025-09-16 14:27:31,076 - app - INFO - ✅ Database connection successful
+2025-09-16 14:27:31,079 - app - INFO - ✅ Database connection successful
+2025-09-16 14:27:31,079 - app - INFO - ✅ Database connection successful
+2025-09-16 14:27:31,138 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:27:31,138 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:27:31,220 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:27:31,220 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:27:31,222 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 14:27:31,222 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 14:27:31,222 - app - INFO - 🚀 Starting development server...
+2025-09-16 14:27:31,222 - app - INFO - 🚀 Starting development server...
+2025-09-16 14:27:31,223 - app - INFO - 📊 Debug mode: ON
+2025-09-16 14:27:31,223 - app - INFO - 📊 Debug mode: ON
+2025-09-16 14:27:31,224 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 14:27:31,224 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 14:27:31,225 - app - INFO - 🔌 Port: 5000
+2025-09-16 14:27:31,225 - app - INFO - 🔌 Port: 5000
+2025-09-16 14:27:31,226 - app - INFO - ==================================================
+2025-09-16 14:27:31,226 - app - INFO - ==================================================
+2025-09-16 14:27:31,307 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.11:5000
+2025-09-16 14:27:31,309 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-16 14:27:31,315 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 14:27:31,974 - root - INFO - ✅ Unified logging initialized via config.py
+2025-09-16 14:27:33,489 - hybrid_agent - INFO - Creating HybridSQLGenerator instance
+2025-09-16 14:27:33,489 - hybrid_agent - INFO - 🚀 Initializing HybridSQLGenerator
+2025-09-16 14:27:33,489 - hybrid_agent - INFO - 📋 Loading available columns
+2025-09-16 14:27:33,489 - hybrid_agent - INFO - ✅ Loaded 27 calculated columns and 7 raw tables
+2025-09-16 14:27:33,489 - hybrid_agent - INFO - ✅ HybridSQLGenerator initialized successfully
+2025-09-16 14:27:33,489 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 14:27:33,489 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 14:27:33,489 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 14:27:33,489 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 14:27:33,762 - app - INFO - ✅ Database connection successful
+2025-09-16 14:27:33,762 - app - INFO - ✅ Database connection successful
+2025-09-16 14:27:33,762 - app - INFO - ✅ Database connection successful
+2025-09-16 14:27:33,762 - app - INFO - ✅ Database connection successful
+2025-09-16 14:27:33,824 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:27:33,824 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:27:33,825 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:27:33,825 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:27:33,826 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 14:27:33,826 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 14:27:33,828 - app - INFO - 🚀 Starting development server...
+2025-09-16 14:27:33,828 - app - INFO - 🚀 Starting development server...
+2025-09-16 14:27:33,828 - app - INFO - 📊 Debug mode: ON
+2025-09-16 14:27:33,828 - app - INFO - 📊 Debug mode: ON
+2025-09-16 14:27:33,829 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 14:27:33,829 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 14:27:33,830 - app - INFO - 🔌 Port: 5000
+2025-09-16 14:27:33,830 - app - INFO - 🔌 Port: 5000
+2025-09-16 14:27:33,830 - app - INFO - ==================================================
+2025-09-16 14:27:33,830 - app - INFO - ==================================================
+2025-09-16 14:27:33,848 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 14:27:33,863 - werkzeug - INFO -  * Debugger PIN: 119-134-647
+2025-09-16 14:27:49,776 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:27:49] "[33mGET / HTTP/1.1[0m" 404 -
+2025-09-16 14:27:50,403 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:27:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-16 14:27:52,992 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:27:52] "GET /api/ HTTP/1.1" 200 -
+2025-09-16 14:28:13,540 - hybrid_agent - INFO - process_prompt called with prompt: 'get tickets resolve by clouddev on 15 sep 2025', financial_year: 2025-2026
+2025-09-16 14:28:13,551 - hybrid_agent - INFO - 🔍 Processing query: 'get tickets resolve by clouddev on 15 sep 2025' for financial year: 2025-2026
+2025-09-16 14:28:13,567 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:28:13,591 - hybrid_agent - INFO - 🔄 Financial year changed from None to 2025-2026, loading new data
+2025-09-16 14:28:13,607 - hybrid_agent - INFO - 📊 Loading ticket summary for financial year: 2025-2026
+2025-09-16 14:28:13,626 - hybrid_agent - INFO - ✅ Successfully loaded 1258 rows, 32 columns
+2025-09-16 14:28:13,676 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:28:13,681 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 14:28:13,764 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 14:28:13,766 - hybrid_agent - INFO - 💾 Loading data into SQLite database
+2025-09-16 14:28:13,870 - hybrid_agent - INFO - ✅ Data loaded into SQLite for financial year 2025-2026
+2025-09-16 14:28:13,873 - hybrid_agent - DEBUG - Cleaning prompt: 'get tickets resolve by clouddev on 15 sep 2025'
+2025-09-16 14:28:13,874 - hybrid_agent - DEBUG - Cleaned prompt: 'get tickets resolve by clouddev on 15 sep 2025'
+2025-09-16 14:28:13,874 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'get tickets resolve by clouddev on 15 sep 2025'
+2025-09-16 14:28:13,874 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 14:28:13,875 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 14:28:13,875 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 14:28:13,881 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 14:28:17,147 - hybrid_agent - INFO - Groq API call successful
+2025-09-16 14:28:17,150 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:28:17,151 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 14:28:17,151 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:28:17,153 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:28:17,153 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:28:17,153 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 14:28:17,156 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:28:17,156 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:28:17,181 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 0 rows
+2025-09-16 14:28:17,189 - hybrid_agent - INFO - ✅ Query execution completed, returned 0 rows
+2025-09-16 14:28:17,194 - hybrid_agent - INFO - process_prompt completed successfully, returned 0 rows
+2025-09-16 14:28:17,202 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:28:17] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 14:28:26,308 - hybrid_agent - INFO - process_prompt called with prompt: 'get tickets resolve by clouddev yesterday', financial_year: 2025-2026
+2025-09-16 14:28:26,308 - hybrid_agent - INFO - 🔍 Processing query: 'get tickets resolve by clouddev yesterday' for financial year: 2025-2026
+2025-09-16 14:28:26,310 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:28:26,312 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:28:26,312 - hybrid_agent - DEBUG - Cleaning prompt: 'get tickets resolve by clouddev yesterday'
+2025-09-16 14:28:26,313 - hybrid_agent - DEBUG - Cleaned prompt: 'get tickets resolve by clouddev yesterday'
+2025-09-16 14:28:26,313 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'get tickets resolve by clouddev yesterday'
+2025-09-16 14:28:26,313 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 14:28:26,313 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 14:28:26,313 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 14:28:26,314 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 14:28:28,576 - hybrid_agent - INFO - Groq API call successful
+2025-09-16 14:28:28,576 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate > (CURRENT_DATE - INTERVAL 1 DAY)
+2025-09-16 14:28:28,576 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 14:28:28,576 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate > (CURRENT_DATE - INTERVAL 1 DAY)
+2025-09-16 14:28:28,576 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:28:28,576 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:28:28,576 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 14:28:28,576 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:28:28,576 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 14:28:28,576 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 14:28:28,576 - hybrid_agent - WARNING - ⚠️ ticket_summary table doesn't exist in SQLite, creating it
+2025-09-16 14:28:28,601 - hybrid_agent - INFO - ✅ ticket_summary table created in SQLite
+2025-09-16 14:28:28,602 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate > (CURRENT_DATE - INTERVAL 1 DAY)
+2025-09-16 14:28:28,603 - hybrid_agent - ERROR - ❌ SQLite query failed: Execution failed on sql 'SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate > (CURRENT_DATE - INTERVAL 1 DAY)': near "1": syntax error
+2025-09-16 14:28:28,603 - hybrid_agent - INFO - 🔄 Falling back to pandas execution
+2025-09-16 14:28:28,604 - hybrid_agent - INFO - 🔄 Using pandas fallback for query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate > (CURRENT_DATE - INTERVAL 1 DAY)
+2025-09-16 14:28:28,604 - hybrid_agent - INFO - 🔍 Processing LIKE query with pandas
+2025-09-16 14:28:28,604 - hybrid_agent - INFO - 🔍 Applying LIKE filter: resolvedby contains 'clouddev and resolveddate > (current_date - interval 1 day)'
+2025-09-16 14:28:28,605 - hybrid_agent - INFO - 🔍 Processing WHERE clause with pandas
+2025-09-16 14:28:28,606 - hybrid_agent - INFO - 🔄 Converted SQL WHERE to pandas condition: resolvedby.str.contains("clouddev" and resolveddate > (current_date - interval 1 day)
+2025-09-16 14:28:28,633 - hybrid_agent - ERROR - ❌ Pandas query failed: ('unexpected EOF in multi-line statement', (1, 0))
+2025-09-16 14:28:28,634 - hybrid_agent - WARNING - ⚠️ Returning all data due to query failure
+2025-09-16 14:28:28,640 - hybrid_agent - INFO - ✅ Query execution completed, returned 1258 rows
+2025-09-16 14:28:28,657 - hybrid_agent - INFO - process_prompt completed successfully, returned 1258 rows
+2025-09-16 14:28:30,753 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:28:30] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 14:28:50,822 - hybrid_agent - INFO - process_prompt called with prompt: 'get tickets resolve by clouddev 15 sep 2025', financial_year: 2025-2026
+2025-09-16 14:28:50,825 - hybrid_agent - INFO - 🔍 Processing query: 'get tickets resolve by clouddev 15 sep 2025' for financial year: 2025-2026
+2025-09-16 14:28:50,825 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:28:50,826 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:28:50,827 - hybrid_agent - DEBUG - Cleaning prompt: 'get tickets resolve by clouddev 15 sep 2025'
+2025-09-16 14:28:50,827 - hybrid_agent - DEBUG - Cleaned prompt: 'get tickets resolve by clouddev 15 sep 2025'
+2025-09-16 14:28:50,827 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'get tickets resolve by clouddev 15 sep 2025'
+2025-09-16 14:28:50,827 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 14:28:50,828 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 14:28:50,828 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 14:28:50,829 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 14:28:53,239 - hybrid_agent - INFO - Groq API call successful
+2025-09-16 14:28:53,245 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:28:53,249 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 14:28:53,249 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:28:53,249 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:28:53,251 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:28:53,253 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 14:28:53,254 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:28:53,254 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 14:28:53,255 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 14:28:53,256 - hybrid_agent - WARNING - ⚠️ ticket_summary table doesn't exist in SQLite, creating it
+2025-09-16 14:28:53,297 - hybrid_agent - INFO - ✅ ticket_summary table created in SQLite
+2025-09-16 14:28:53,298 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:28:53,301 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 0 rows
+2025-09-16 14:28:53,302 - hybrid_agent - INFO - ✅ Query execution completed, returned 0 rows
+2025-09-16 14:28:53,302 - hybrid_agent - INFO - process_prompt completed successfully, returned 0 rows
+2025-09-16 14:28:53,306 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:28:53] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 14:28:59,472 - hybrid_agent - INFO - process_prompt called with prompt: 'get tickets resolve by clouddev by 15 sep 2025', financial_year: 2025-2026
+2025-09-16 14:28:59,472 - hybrid_agent - INFO - 🔍 Processing query: 'get tickets resolve by clouddev by 15 sep 2025' for financial year: 2025-2026
+2025-09-16 14:28:59,472 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:28:59,473 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:28:59,473 - hybrid_agent - DEBUG - Cleaning prompt: 'get tickets resolve by clouddev by 15 sep 2025'
+2025-09-16 14:28:59,473 - hybrid_agent - DEBUG - Cleaned prompt: 'get tickets resolve by clouddev by 15 sep 2025'
+2025-09-16 14:28:59,473 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'get tickets resolve by clouddev by 15 sep 2025'
+2025-09-16 14:28:59,473 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 14:28:59,473 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 14:28:59,473 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 14:28:59,473 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 14:29:01,957 - hybrid_agent - INFO - Groq API call successful
+2025-09-16 14:29:01,962 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate <= '2025-09-15'
+2025-09-16 14:29:01,962 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 14:29:01,963 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate <= '2025-09-15'
+2025-09-16 14:29:01,963 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:29:01,964 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:29:01,965 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 14:29:02,015 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:29:02,032 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 14:29:02,065 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 14:29:02,074 - hybrid_agent - WARNING - ⚠️ ticket_summary table doesn't exist in SQLite, creating it
+2025-09-16 14:29:02,166 - hybrid_agent - INFO - ✅ ticket_summary table created in SQLite
+2025-09-16 14:29:02,167 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate <= '2025-09-15'
+2025-09-16 14:29:02,180 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 81 rows
+2025-09-16 14:29:02,190 - hybrid_agent - INFO - ✅ Query execution completed, returned 81 rows
+2025-09-16 14:29:02,210 - hybrid_agent - INFO - process_prompt completed successfully, returned 81 rows
+2025-09-16 14:29:02,424 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:29:02] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 14:29:33,029 - hybrid_agent - INFO - process_prompt called with prompt: 'get tickets resolve by clouddev on 15 sep 2025', financial_year: 2025-2026
+2025-09-16 14:29:33,032 - hybrid_agent - INFO - 🔍 Processing query: 'get tickets resolve by clouddev on 15 sep 2025' for financial year: 2025-2026
+2025-09-16 14:29:33,034 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:29:33,034 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:29:33,035 - hybrid_agent - DEBUG - Cleaning prompt: 'get tickets resolve by clouddev on 15 sep 2025'
+2025-09-16 14:29:33,035 - hybrid_agent - DEBUG - Cleaned prompt: 'get tickets resolve by clouddev on 15 sep 2025'
+2025-09-16 14:29:33,035 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'get tickets resolve by clouddev on 15 sep 2025'
+2025-09-16 14:29:33,035 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 14:29:33,036 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 14:29:33,036 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 14:29:33,036 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 14:29:35,544 - hybrid_agent - INFO - Groq API call successful
+2025-09-16 14:29:35,546 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:29:35,546 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 14:29:35,546 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:29:35,547 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:29:35,547 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:29:35,547 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 14:29:35,547 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:29:35,547 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 14:29:35,548 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 14:29:35,548 - hybrid_agent - WARNING - ⚠️ ticket_summary table doesn't exist in SQLite, creating it
+2025-09-16 14:29:35,563 - hybrid_agent - INFO - ✅ ticket_summary table created in SQLite
+2025-09-16 14:29:35,563 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:29:35,573 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 0 rows
+2025-09-16 14:29:35,573 - hybrid_agent - INFO - ✅ Query execution completed, returned 0 rows
+2025-09-16 14:29:35,575 - hybrid_agent - INFO - process_prompt completed successfully, returned 0 rows
+2025-09-16 14:29:35,580 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:29:35] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 14:30:14,026 - hybrid_agent - INFO - process_prompt called with prompt: 'get tickets resolve by clouddev at 15 sep 2025', financial_year: 2025-2026
+2025-09-16 14:30:14,027 - hybrid_agent - INFO - 🔍 Processing query: 'get tickets resolve by clouddev at 15 sep 2025' for financial year: 2025-2026
+2025-09-16 14:30:14,029 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:30:14,030 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:30:14,030 - hybrid_agent - DEBUG - Cleaning prompt: 'get tickets resolve by clouddev at 15 sep 2025'
+2025-09-16 14:30:14,030 - hybrid_agent - DEBUG - Cleaned prompt: 'get tickets resolve by clouddev at 15 sep 2025'
+2025-09-16 14:30:14,030 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'get tickets resolve by clouddev at 15 sep 2025'
+2025-09-16 14:30:14,030 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 14:30:14,030 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 14:30:14,030 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 14:30:14,030 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 14:30:16,176 - hybrid_agent - INFO - Groq API call successful
+2025-09-16 14:30:16,179 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:30:16,179 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 14:30:16,179 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:30:16,181 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:30:16,181 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:30:16,181 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 14:30:16,181 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:30:16,181 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 14:30:16,183 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 14:30:16,183 - hybrid_agent - WARNING - ⚠️ ticket_summary table doesn't exist in SQLite, creating it
+2025-09-16 14:30:16,205 - hybrid_agent - INFO - ✅ ticket_summary table created in SQLite
+2025-09-16 14:30:16,207 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:30:16,217 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 0 rows
+2025-09-16 14:30:16,219 - hybrid_agent - INFO - ✅ Query execution completed, returned 0 rows
+2025-09-16 14:30:16,219 - hybrid_agent - INFO - process_prompt completed successfully, returned 0 rows
+2025-09-16 14:30:16,224 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:30:16] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 14:30:28,149 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Naman jain\\Desktop\\Internship Projects\\Ticket_Agent\\app\\services\\hybrid_agent.py', reloading
+2025-09-16 14:30:29,477 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 14:30:31,157 - root - INFO - ✅ Unified logging initialized via config.py
+2025-09-16 14:30:33,353 - hybrid_agent - INFO - Creating HybridSQLGenerator instance
+2025-09-16 14:30:33,353 - hybrid_agent - INFO - 🚀 Initializing HybridSQLGenerator
+2025-09-16 14:30:33,353 - hybrid_agent - INFO - 📋 Loading available columns
+2025-09-16 14:30:33,353 - hybrid_agent - INFO - ✅ Loaded 27 calculated columns and 7 raw tables
+2025-09-16 14:30:33,353 - hybrid_agent - INFO - ✅ HybridSQLGenerator initialized successfully
+2025-09-16 14:30:33,368 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 14:30:33,368 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 14:30:33,368 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 14:30:33,368 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 14:30:33,553 - app - INFO - ✅ Database connection successful
+2025-09-16 14:30:33,553 - app - INFO - ✅ Database connection successful
+2025-09-16 14:30:33,554 - app - INFO - ✅ Database connection successful
+2025-09-16 14:30:33,554 - app - INFO - ✅ Database connection successful
+2025-09-16 14:30:33,603 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:30:33,603 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:30:33,604 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:30:33,604 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:30:33,604 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 14:30:33,604 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 14:30:33,605 - app - INFO - 🚀 Starting development server...
+2025-09-16 14:30:33,605 - app - INFO - 🚀 Starting development server...
+2025-09-16 14:30:33,605 - app - INFO - 📊 Debug mode: ON
+2025-09-16 14:30:33,605 - app - INFO - 📊 Debug mode: ON
+2025-09-16 14:30:33,606 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 14:30:33,606 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 14:30:33,606 - app - INFO - 🔌 Port: 5000
+2025-09-16 14:30:33,606 - app - INFO - 🔌 Port: 5000
+2025-09-16 14:30:33,607 - app - INFO - ==================================================
+2025-09-16 14:30:33,607 - app - INFO - ==================================================
+2025-09-16 14:30:33,634 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 14:30:33,643 - werkzeug - INFO -  * Debugger PIN: 119-134-647
+2025-09-16 14:30:36,191 - hybrid_agent - INFO - process_prompt called with prompt: 'get tickets resolve by clouddev at 15 sep 2025', financial_year: 2025-2026
+2025-09-16 14:30:36,192 - hybrid_agent - INFO - 🔍 Processing query: 'get tickets resolve by clouddev at 15 sep 2025' for financial year: 2025-2026
+2025-09-16 14:30:36,193 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:30:36,193 - hybrid_agent - INFO - 🔄 Financial year changed from None to 2025-2026, loading new data
+2025-09-16 14:30:36,194 - hybrid_agent - INFO - 📊 Loading ticket summary for financial year: 2025-2026
+2025-09-16 14:30:36,195 - hybrid_agent - INFO - ✅ Successfully loaded 1258 rows, 32 columns
+2025-09-16 14:30:36,196 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:30:36,196 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 14:30:36,201 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 14:30:36,202 - hybrid_agent - INFO - 💾 Loading data into SQLite database
+2025-09-16 14:30:36,244 - hybrid_agent - INFO - ✅ Data loaded into SQLite for financial year 2025-2026
+2025-09-16 14:30:36,249 - hybrid_agent - DEBUG - Cleaning prompt: 'get tickets resolve by clouddev at 15 sep 2025'
+2025-09-16 14:30:36,252 - hybrid_agent - DEBUG - Cleaned prompt: 'get tickets resolve by clouddev at 15 sep 2025'
+2025-09-16 14:30:36,253 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'get tickets resolve by clouddev at 15 sep 2025'
+2025-09-16 14:30:36,254 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 14:30:36,254 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 14:30:36,254 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 14:30:36,260 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 14:30:39,148 - hybrid_agent - INFO - Groq API call successful
+2025-09-16 14:30:39,155 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate LIKE '2025-09-15%';
+2025-09-16 14:30:39,157 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 14:30:39,157 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate LIKE '2025-09-15%';
+2025-09-16 14:30:39,158 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:30:39,158 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:30:39,159 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 14:30:39,161 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:30:39,161 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate LIKE '2025-09-15%';
+2025-09-16 14:30:39,168 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 0 rows
+2025-09-16 14:30:39,170 - hybrid_agent - INFO - ✅ Query execution completed, returned 0 rows
+2025-09-16 14:30:39,171 - hybrid_agent - INFO - process_prompt completed successfully, returned 0 rows
+2025-09-16 14:30:39,330 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:30:39] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 14:31:08,584 - hybrid_agent - INFO - process_prompt called with prompt: 'get tickets resolve by clouddev in 15 sep 2025', financial_year: 2025-2026
+2025-09-16 14:31:08,586 - hybrid_agent - INFO - 🔍 Processing query: 'get tickets resolve by clouddev in 15 sep 2025' for financial year: 2025-2026
+2025-09-16 14:31:08,586 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:31:08,586 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:31:08,586 - hybrid_agent - DEBUG - Cleaning prompt: 'get tickets resolve by clouddev in 15 sep 2025'
+2025-09-16 14:31:08,586 - hybrid_agent - DEBUG - Cleaned prompt: 'get tickets resolve by clouddev in 15 sep 2025'
+2025-09-16 14:31:08,586 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'get tickets resolve by clouddev in 15 sep 2025'
+2025-09-16 14:31:08,586 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 14:31:08,586 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 14:31:08,586 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 14:31:08,586 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 14:31:11,536 - hybrid_agent - INFO - Groq API call successful
+2025-09-16 14:31:11,539 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:31:11,540 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 14:31:11,540 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:31:11,540 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:31:11,540 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:31:11,540 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 14:31:11,540 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:31:11,540 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 14:31:11,540 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 14:31:11,540 - hybrid_agent - WARNING - ⚠️ ticket_summary table doesn't exist in SQLite, creating it
+2025-09-16 14:31:11,559 - hybrid_agent - INFO - ✅ ticket_summary table created in SQLite
+2025-09-16 14:31:11,562 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:31:11,573 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 0 rows
+2025-09-16 14:31:11,574 - hybrid_agent - INFO - ✅ Query execution completed, returned 0 rows
+2025-09-16 14:31:11,578 - hybrid_agent - INFO - process_prompt completed successfully, returned 0 rows
+2025-09-16 14:31:11,584 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:31:11] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 14:31:18,937 - hybrid_agent - INFO - process_prompt called with prompt: 'get tickets resolve by clouddev of 15 sep 2025', financial_year: 2025-2026
+2025-09-16 14:31:18,937 - hybrid_agent - INFO - 🔍 Processing query: 'get tickets resolve by clouddev of 15 sep 2025' for financial year: 2025-2026
+2025-09-16 14:31:18,941 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:31:18,941 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:31:18,941 - hybrid_agent - DEBUG - Cleaning prompt: 'get tickets resolve by clouddev of 15 sep 2025'
+2025-09-16 14:31:18,941 - hybrid_agent - DEBUG - Cleaned prompt: 'get tickets resolve by clouddev of 15 sep 2025'
+2025-09-16 14:31:18,941 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'get tickets resolve by clouddev of 15 sep 2025'
+2025-09-16 14:31:18,941 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 14:31:18,941 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 14:31:18,941 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 14:31:18,941 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 14:31:21,374 - hybrid_agent - INFO - Groq API call successful
+2025-09-16 14:31:21,376 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:31:21,376 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 14:31:21,378 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:31:21,378 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:31:21,378 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:31:21,378 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 14:31:21,378 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:31:21,378 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 14:31:21,378 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 14:31:21,380 - hybrid_agent - WARNING - ⚠️ ticket_summary table doesn't exist in SQLite, creating it
+2025-09-16 14:31:21,397 - hybrid_agent - INFO - ✅ ticket_summary table created in SQLite
+2025-09-16 14:31:21,399 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:31:21,406 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 0 rows
+2025-09-16 14:31:21,410 - hybrid_agent - INFO - ✅ Query execution completed, returned 0 rows
+2025-09-16 14:31:21,410 - hybrid_agent - INFO - process_prompt completed successfully, returned 0 rows
+2025-09-16 14:31:21,415 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:31:21] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 14:31:26,620 - hybrid_agent - INFO - process_prompt called with prompt: 'get tickets resolve by clouddev for 15 sep 2025', financial_year: 2025-2026
+2025-09-16 14:31:26,621 - hybrid_agent - INFO - 🔍 Processing query: 'get tickets resolve by clouddev for 15 sep 2025' for financial year: 2025-2026
+2025-09-16 14:31:26,621 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:31:26,621 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:31:26,626 - hybrid_agent - DEBUG - Cleaning prompt: 'get tickets resolve by clouddev for 15 sep 2025'
+2025-09-16 14:31:26,626 - hybrid_agent - DEBUG - Cleaned prompt: 'get tickets resolve by clouddev for 15 sep 2025'
+2025-09-16 14:31:26,626 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'get tickets resolve by clouddev for 15 sep 2025'
+2025-09-16 14:31:26,626 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 14:31:26,627 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 14:31:26,627 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 14:31:26,629 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 14:31:28,773 - hybrid_agent - INFO - Groq API call successful
+2025-09-16 14:31:28,775 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:31:28,776 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 14:31:28,776 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:31:28,776 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:31:28,776 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:31:28,776 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 14:31:28,777 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:31:28,777 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 14:31:28,777 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 14:31:28,777 - hybrid_agent - WARNING - ⚠️ ticket_summary table doesn't exist in SQLite, creating it
+2025-09-16 14:31:28,788 - hybrid_agent - INFO - ✅ ticket_summary table created in SQLite
+2025-09-16 14:31:28,792 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:31:28,799 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 0 rows
+2025-09-16 14:31:28,800 - hybrid_agent - INFO - ✅ Query execution completed, returned 0 rows
+2025-09-16 14:31:28,801 - hybrid_agent - INFO - process_prompt completed successfully, returned 0 rows
+2025-09-16 14:31:28,807 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:31:28] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 14:31:34,754 - hybrid_agent - INFO - process_prompt called with prompt: 'get tickets resolve by clouddev from 15 sep 2025', financial_year: 2025-2026
+2025-09-16 14:31:34,762 - hybrid_agent - INFO - 🔍 Processing query: 'get tickets resolve by clouddev from 15 sep 2025' for financial year: 2025-2026
+2025-09-16 14:31:34,770 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:31:34,779 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:31:34,793 - hybrid_agent - DEBUG - Cleaning prompt: 'get tickets resolve by clouddev from 15 sep 2025'
+2025-09-16 14:31:34,794 - hybrid_agent - DEBUG - Cleaned prompt: 'get tickets resolve by clouddev from 15 sep 2025'
+2025-09-16 14:31:34,795 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'get tickets resolve by clouddev from 15 sep 2025'
+2025-09-16 14:31:34,795 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 14:31:34,796 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 14:31:34,797 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 14:31:34,809 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 14:31:37,274 - hybrid_agent - INFO - Groq API call successful
+2025-09-16 14:31:37,277 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate > '2025-09-15'
+2025-09-16 14:31:37,277 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 14:31:37,277 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate > '2025-09-15'
+2025-09-16 14:31:37,278 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:31:37,278 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:31:37,278 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 14:31:37,278 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:31:37,278 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 14:31:37,279 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 14:31:37,279 - hybrid_agent - WARNING - ⚠️ ticket_summary table doesn't exist in SQLite, creating it
+2025-09-16 14:31:37,282 - hybrid_agent - INFO - ✅ ticket_summary table created in SQLite
+2025-09-16 14:31:37,282 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate > '2025-09-15'
+2025-09-16 14:31:37,292 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 0 rows
+2025-09-16 14:31:37,293 - hybrid_agent - INFO - ✅ Query execution completed, returned 0 rows
+2025-09-16 14:31:37,295 - hybrid_agent - INFO - process_prompt completed successfully, returned 0 rows
+2025-09-16 14:31:37,301 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:31:37] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 14:32:25,563 - hybrid_agent - INFO - process_prompt called with prompt: 'get tickets resolve by clouddev to 15 sep 2025', financial_year: 2025-2026
+2025-09-16 14:32:25,586 - hybrid_agent - INFO - 🔍 Processing query: 'get tickets resolve by clouddev to 15 sep 2025' for financial year: 2025-2026
+2025-09-16 14:32:25,600 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:32:25,621 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:32:25,638 - hybrid_agent - DEBUG - Cleaning prompt: 'get tickets resolve by clouddev to 15 sep 2025'
+2025-09-16 14:32:25,644 - hybrid_agent - DEBUG - Cleaned prompt: 'get tickets resolve by clouddev to 15 sep 2025'
+2025-09-16 14:32:25,661 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'get tickets resolve by clouddev to 15 sep 2025'
+2025-09-16 14:32:25,661 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 14:32:25,663 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 14:32:25,663 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 14:32:25,670 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 14:32:28,627 - hybrid_agent - INFO - Groq API call successful
+2025-09-16 14:32:28,630 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate <= '2025-09-15'
+2025-09-16 14:32:28,632 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 14:32:28,634 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate <= '2025-09-15'
+2025-09-16 14:32:28,635 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:32:28,638 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:32:28,639 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 14:32:28,640 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:32:28,640 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 14:32:28,644 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 14:32:28,648 - hybrid_agent - WARNING - ⚠️ ticket_summary table doesn't exist in SQLite, creating it
+2025-09-16 14:32:28,680 - hybrid_agent - INFO - ✅ ticket_summary table created in SQLite
+2025-09-16 14:32:28,686 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate <= '2025-09-15'
+2025-09-16 14:32:28,699 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 81 rows
+2025-09-16 14:32:28,703 - hybrid_agent - INFO - ✅ Query execution completed, returned 81 rows
+2025-09-16 14:32:28,704 - hybrid_agent - INFO - process_prompt completed successfully, returned 81 rows
+2025-09-16 14:32:29,944 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:32:29] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 14:33:20,302 - hybrid_agent - INFO - process_prompt called with prompt: 'get tickets resolve by clouddev equal 15 sep 2025', financial_year: 2025-2026
+2025-09-16 14:33:20,306 - hybrid_agent - INFO - 🔍 Processing query: 'get tickets resolve by clouddev equal 15 sep 2025' for financial year: 2025-2026
+2025-09-16 14:33:20,308 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:33:20,311 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:33:20,312 - hybrid_agent - DEBUG - Cleaning prompt: 'get tickets resolve by clouddev equal 15 sep 2025'
+2025-09-16 14:33:20,312 - hybrid_agent - DEBUG - Cleaned prompt: 'get tickets resolve by clouddev equal 15 sep 2025'
+2025-09-16 14:33:20,313 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'get tickets resolve by clouddev equal 15 sep 2025'
+2025-09-16 14:33:20,313 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 14:33:20,313 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 14:33:20,313 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 14:33:20,314 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 14:33:22,563 - hybrid_agent - INFO - Groq API call successful
+2025-09-16 14:33:22,563 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:33:22,563 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 14:33:22,563 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:33:22,563 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:33:22,563 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:33:22,563 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 14:33:22,563 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:33:22,563 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 14:33:22,563 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 14:33:22,563 - hybrid_agent - WARNING - ⚠️ ticket_summary table doesn't exist in SQLite, creating it
+2025-09-16 14:33:22,592 - hybrid_agent - INFO - ✅ ticket_summary table created in SQLite
+2025-09-16 14:33:22,592 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate = '2025-09-15'
+2025-09-16 14:33:22,599 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 0 rows
+2025-09-16 14:33:22,602 - hybrid_agent - INFO - ✅ Query execution completed, returned 0 rows
+2025-09-16 14:33:22,602 - hybrid_agent - INFO - process_prompt completed successfully, returned 0 rows
+2025-09-16 14:33:22,607 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:33:22] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 14:33:31,635 - hybrid_agent - INFO - process_prompt called with prompt: 'get tickets resolve by clouddev greater equal 15 sep 2025', financial_year: 2025-2026
+2025-09-16 14:33:31,644 - hybrid_agent - INFO - 🔍 Processing query: 'get tickets resolve by clouddev greater equal 15 sep 2025' for financial year: 2025-2026
+2025-09-16 14:33:31,644 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:33:31,651 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:33:31,651 - hybrid_agent - DEBUG - Cleaning prompt: 'get tickets resolve by clouddev greater equal 15 sep 2025'
+2025-09-16 14:33:31,653 - hybrid_agent - DEBUG - Cleaned prompt: 'get tickets resolve by clouddev greater equal 15 sep 2025'
+2025-09-16 14:33:31,653 - hybrid_agent - DEBUG - 🧹 Cleaned prompt: 'get tickets resolve by clouddev greater equal 15 sep 2025'
+2025-09-16 14:33:31,653 - hybrid_agent - DEBUG - 📋 Formatting raw tables schema for Groq
+2025-09-16 14:33:31,653 - hybrid_agent - DEBUG - 🤖 Calling Groq API to generate SQL query
+2025-09-16 14:33:31,653 - hybrid_agent - INFO - 📡 Calling Groq API to generate SQL query
+2025-09-16 14:33:31,669 - hybrid_agent - DEBUG - 📤 Sending request to Groq API
+2025-09-16 14:33:34,382 - hybrid_agent - INFO - Groq API call successful
+2025-09-16 14:33:34,385 - hybrid_agent - INFO - 📝 Generated SQL query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate >= '2025-09-15'
+2025-09-16 14:33:34,386 - hybrid_agent - INFO - ⚡ Executing generated SQL query
+2025-09-16 14:33:34,386 - hybrid_agent - INFO - ⚡ Executing query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate >= '2025-09-15'
+2025-09-16 14:33:34,387 - hybrid_agent - INFO - 📂 Starting data load for financial year: 2025-2026
+2025-09-16 14:33:34,389 - hybrid_agent - INFO - ✅ Financial year unchanged (2025-2026), using cached data
+2025-09-16 14:33:34,390 - hybrid_agent - INFO - 📊 Query targets ticket_summary table, using SQLite
+2025-09-16 14:33:34,390 - hybrid_agent - DEBUG - 🔗 Getting thread-local SQLite connection
+2025-09-16 14:33:34,390 - hybrid_agent - INFO - 🆕 Creating new SQLite connection
+2025-09-16 14:33:34,391 - hybrid_agent - INFO - ✅ SQLite connection created and optimized
+2025-09-16 14:33:34,391 - hybrid_agent - WARNING - ⚠️ ticket_summary table doesn't exist in SQLite, creating it
+2025-09-16 14:33:34,455 - hybrid_agent - INFO - ✅ ticket_summary table created in SQLite
+2025-09-16 14:33:34,456 - hybrid_agent - INFO - 🔍 Executing SQLite query: SELECT * FROM ticket_summary WHERE ResolvedBy LIKE '%clouddev%' AND ResolvedDate >= '2025-09-15'
+2025-09-16 14:33:34,463 - hybrid_agent - INFO - ✅ SQLite query executed successfully, returned 0 rows
+2025-09-16 14:33:34,465 - hybrid_agent - INFO - ✅ Query execution completed, returned 0 rows
+2025-09-16 14:33:34,467 - hybrid_agent - INFO - process_prompt completed successfully, returned 0 rows
+2025-09-16 14:33:34,467 - werkzeug - INFO - 127.0.0.1 - - [16/Sep/2025 14:33:34] "POST /api/process-query HTTP/1.1" 200 -
+2025-09-16 14:34:04,504 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Naman jain\\Desktop\\Internship Projects\\Ticket_Agent\\app\\services\\hybrid_agent.py', reloading
+2025-09-16 14:34:04,927 - werkzeug - INFO -  * Restarting with stat
+2025-09-16 14:34:06,083 - root - INFO - ✅ Unified logging initialized via config.py
+2025-09-16 14:34:08,437 - hybrid_agent - INFO - Creating HybridSQLGenerator instance
+2025-09-16 14:34:08,437 - hybrid_agent - INFO - 🚀 Initializing HybridSQLGenerator
+2025-09-16 14:34:08,437 - hybrid_agent - INFO - 📋 Loading available columns
+2025-09-16 14:34:08,437 - hybrid_agent - INFO - ✅ Loaded 27 calculated columns and 7 raw tables
+2025-09-16 14:34:08,437 - hybrid_agent - INFO - ✅ HybridSQLGenerator initialized successfully
+2025-09-16 14:34:08,437 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 14:34:08,437 - app - INFO - ✅ Ticket Reporting System startup
+2025-09-16 14:34:08,437 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 14:34:08,437 - app - INFO - Logs are written to: C:\Users\Naman jain\Desktop\Internship Projects\Ticket_Agent\Logs/app.log.YYYY-MM-DD
+2025-09-16 14:34:08,587 - app - INFO - ✅ Database connection successful
+2025-09-16 14:34:08,587 - app - INFO - ✅ Database connection successful
+2025-09-16 14:34:08,587 - app - INFO - ✅ Database connection successful
+2025-09-16 14:34:08,587 - app - INFO - ✅ Database connection successful
+2025-09-16 14:34:08,633 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:34:08,633 - app - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:34:08,634 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:34:08,634 - app.services.report_generator - INFO -  Loaded ticket summary from ticket_summary_report_2025_2026.csv
+2025-09-16 14:34:08,635 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 14:34:08,635 - app - INFO - ✅ Report generated with 1258 rows and 32 columns
+2025-09-16 14:34:08,635 - app - INFO - 🚀 Starting development server...
+2025-09-16 14:34:08,635 - app - INFO - 🚀 Starting development server...
+2025-09-16 14:34:08,635 - app - INFO - 📊 Debug mode: ON
+2025-09-16 14:34:08,635 - app - INFO - 📊 Debug mode: ON
+2025-09-16 14:34:08,636 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 14:34:08,636 - app - INFO - 🌐 Host: 0.0.0.0 (accessible from network)
+2025-09-16 14:34:08,637 - app - INFO - 🔌 Port: 5000
+2025-09-16 14:34:08,637 - app - INFO - 🔌 Port: 5000
+2025-09-16 14:34:08,637 - app - INFO - ==================================================
+2025-09-16 14:34:08,637 - app - INFO - ==================================================
+2025-09-16 14:34:08,657 - werkzeug - WARNING -  * Debugger is active!
+2025-09-16 14:34:08,672 - werkzeug - INFO -  * Debugger PIN: 119-134-647
